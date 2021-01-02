@@ -1390,7 +1390,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610252,PARENT,Stephanie  Murphy,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
 610252,PARENT,Tearia  Matthews,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
 610252,TEACHER,Ardia  Adah-Bush,9,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
-610252,TEACHER,Antonio D Moore,6,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
+610252,TEACHER,Antonio D Moore,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
 609884,COMMUNITY,Elizabeth  Fligelman,10,DEVER,William E Dever Elementary School,ES,Network 1
 609884,COMMUNITY,William  Anderson,9,DEVER,William E Dever Elementary School,ES,Network 1
 609884,NONTCHSTAFF,Fernando  Pena,9,DEVER,William E Dever Elementary School,ES,Network 1
@@ -1700,7 +1700,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609903,TEACHER,Elpidio  Pintor,7,EDWARDS,Richard Edwards Elementary School,ES,Network 8
 609904,COMMUNITY,Mildred  Swafford,6,ELLINGTON,Edward K Ellington Elementary School,ES,Network 3
 609904,COMMUNITY,Carl A King,4,ELLINGTON,Edward K Ellington Elementary School,ES,Network 3
-609904,NONTCHSTAFF,Terrayne K Ellis,6,ELLINGTON,Edward K Ellington Elementary School,ES,Network 3
+609904,NONTCHSTAFF,Terrayne K Ellis,0,ELLINGTON,Edward K Ellington Elementary School,ES,Network 3
 609904,PARENT,Angel  Williams,5,ELLINGTON,Edward K Ellington Elementary School,ES,Network 3
 609904,PARENT,Carita  King,5,ELLINGTON,Edward K Ellington Elementary School,ES,Network 3
 609904,PARENT,Keith  Mack,5,ELLINGTON,Edward K Ellington Elementary School,ES,Network 3
@@ -2258,8 +2258,8 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609963,PARENT,Virginia N Lombard,37,HAMILTON,Alexander Hamilton Elementary School,ES,Network 4
 609963,TEACHER,Kerrie A Rovito,6,HAMILTON,Alexander Hamilton Elementary School,ES,Network 4
 609963,TEACHER,Ian A Stone,4,HAMILTON,Alexander Hamilton Elementary School,ES,Network 4
-609964,NONTCHSTAFF,Kenneth R Miller-Colon,4,HAMLINE,John H Hamline Elementary School,ES,Network 8
-609964,NONTCHSTAFF,Noel  Hernandez,3,HAMLINE,John H Hamline Elementary School,ES,Network 8
+609964,NONTCHSTAFF,Kenneth R Miller-Colon,0,HAMLINE,John H Hamline Elementary School,ES,Network 8
+609964,NONTCHSTAFF,Noel  Hernandez,0,HAMLINE,John H Hamline Elementary School,ES,Network 8
 609964,PARENT,Evit Y Diaz,10,HAMLINE,John H Hamline Elementary School,ES,Network 8
 609964,PARENT,Patricia  Limon,10,HAMLINE,John H Hamline Elementary School,ES,Network 8
 609964,PARENT,Rosa E Escobedo,9,HAMLINE,John H Hamline Elementary School,ES,Network 8
@@ -2284,7 +2284,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609966,TEACHER,Jose M Hernandez,0,HAMMOND,Charles G Hammond Elementary School,ES,Network 7
 609807,COMMUNITY,Toni  Morse,3,HAMPTON,Lionel Hampton Fine & Performing Arts ES,ES,Network 10
 609807,COMMUNITY,Alice  Perry,2,HAMPTON,Lionel Hampton Fine & Performing Arts ES,ES,Network 10
-609807,NONTCHSTAFF,Moneka A Smith,6,HAMPTON,Lionel Hampton Fine & Performing Arts ES,ES,Network 10
+609807,NONTCHSTAFF,Moneka A Smith,0,HAMPTON,Lionel Hampton Fine & Performing Arts ES,ES,Network 10
 609807,PARENT,Jasmine  Razo,6,HAMPTON,Lionel Hampton Fine & Performing Arts ES,ES,Network 10
 609807,PARENT,Veronica  Perez,5,HAMPTON,Lionel Hampton Fine & Performing Arts ES,ES,Network 10
 609807,PARENT,Sherida M Pullen,3,HAMPTON,Lionel Hampton Fine & Performing Arts ES,ES,Network 10
@@ -3357,7 +3357,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610048,COMMUNITY,Earlean  Green,6,MANIERRE,George Manierre Elementary School,ES,Network 4
 610048,COMMUNITY,Margarita  Miranda,6,MANIERRE,George Manierre Elementary School,ES,Network 4
 610048,COMMUNITY,Justice  Stamps,5,MANIERRE,George Manierre Elementary School,ES,Network 4
-610048,NONTCHSTAFF,Nathaniel  Burns,10,MANIERRE,George Manierre Elementary School,ES,Network 4
+610048,NONTCHSTAFF,Nathaniel  Burns,0,MANIERRE,George Manierre Elementary School,ES,Network 4
 610048,PARENT,Shavon  Harris,4,MANIERRE,George Manierre Elementary School,ES,Network 4
 610048,PARENT,Natalie  Daugherty,2,MANIERRE,George Manierre Elementary School,ES,Network 4
 610048,PARENT,Tawonya  Fraley,1,MANIERRE,George Manierre Elementary School,ES,Network 4
@@ -3769,8 +3769,8 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610090,PARENT,Herbert Council G Wilson,7,MURRAY,Phillip Murray Elementary Language Academy,ES,Network 9
 610090,PARENT,Amanda E Gage-Willis,6,MURRAY,Phillip Murray Elementary Language Academy,ES,Network 9
 610090,PARENT,Wiley  Taylor,6,MURRAY,Phillip Murray Elementary Language Academy,ES,Network 9
-610090,TEACHER,Ashley W Redding,4,MURRAY,Phillip Murray Elementary Language Academy,ES,Network 9
 610090,TEACHER,Monica  Prinz,2,MURRAY,Phillip Murray Elementary Language Academy,ES,Network 9
+610090,TEACHER,Ashley W Redding,0,MURRAY,Phillip Murray Elementary Language Academy,ES,Network 9
 610092,COMMUNITY,Gloria G Moore,1,NASH,Henry H Nash Elementary School,ES,Network 3
 610092,COMMUNITY,Artimese  Jones,0,NASH,Henry H Nash Elementary School,ES,Network 3
 610092,NONTCHSTAFF,Mikeisha S Ellis,3,NASH,Henry H Nash Elementary School,ES,Network 3
@@ -3800,7 +3800,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610231,TEACHER,Autumn M Laidler,1,NATIONAL TEACHERS,National Teachers Elementary Academy,ES,AUSL
 610231,TEACHER,Michelle  Casey,1,NATIONAL TEACHERS,National Teachers Elementary Academy,ES,AUSL
 610093,COMMUNITY,Gwen L Perry,4,NEIL,Jane A Neil Elementary School,ES,Network 12
-610093,NONTCHSTAFF,Sharon  Tylon,7,NEIL,Jane A Neil Elementary School,ES,Network 12
+610093,NONTCHSTAFF,Sharon  Tylon,0,NEIL,Jane A Neil Elementary School,ES,Network 12
 610093,PARENT,Chamell V Purham,4,NEIL,Jane A Neil Elementary School,ES,Network 12
 610093,PARENT,Nyima  Washington,3,NEIL,Jane A Neil Elementary School,ES,Network 12
 610093,PARENT,Tiara  Morris,3,NEIL,Jane A Neil Elementary School,ES,Network 12
@@ -3866,8 +3866,8 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609793,PARENT,Felicia  Craig,13,NICHOLSON,Lillian R. Nicholson STEM Academy,ES,Network 11
 609793,PARENT,Rozalyn K Sims,6,NICHOLSON,Lillian R. Nicholson STEM Academy,ES,Network 11
 609793,TEACHER,Cindy L Cunningham,6,NICHOLSON,Lillian R. Nicholson STEM Academy,ES,Network 11
+609793,TEACHER,Tiffany Y Drain,4,NICHOLSON,Lillian R. Nicholson STEM Academy,ES,Network 11
 609793,TEACHER,Amanda  Star,3,NICHOLSON,Lillian R. Nicholson STEM Academy,ES,Network 11
-609793,TEACHER,Tiffany Y Drain,3,NICHOLSON,Lillian R. Nicholson STEM Academy,ES,Network 11
 610096,COMMUNITY,jesus  hidalgo,8,NIGHTINGALE,Florence Nightingale Elementary School,ES,Network 8
 610096,COMMUNITY,Lucina  Lopez,7,NIGHTINGALE,Florence Nightingale Elementary School,ES,Network 8
 610096,NONTCHSTAFF,Marylu  Salgado,11,NIGHTINGALE,Florence Nightingale Elementary School,ES,Network 8
@@ -4220,7 +4220,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610123,PARENT,Teresa L Gates,3,PENN,William Penn Elementary School,ES,Network 5
 610123,PARENT,Yolanda  Williams,3,PENN,William Penn Elementary School,ES,Network 5
 610123,TEACHER,Jasmine  Jackson,6,PENN,William Penn Elementary School,ES,Network 5
-610123,TEACHER,Robbin B Johnson,6,PENN,William Penn Elementary School,ES,Network 5
+610123,TEACHER,Robbin B Johnson,0,PENN,William Penn Elementary School,ES,Network 5
 609872,COMMUNITY,Alicia  Barajas,14,PEREZ,Manuel Perez Elementary School,ES,Network 7
 609872,NONTCHSTAFF,Annie  Ybarra,4,PEREZ,Manuel Perez Elementary School,ES,Network 7
 609872,PARENT,Victor M Garcia,11,PEREZ,Manuel Perez Elementary School,ES,Network 7
@@ -4933,11 +4933,11 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610534,PARENT,Marjorie  Baltazar,96,SKINNER NORTH,Skinner North,ES,Network 4
 610534,PARENT,Ismael  El-Amin,70,SKINNER NORTH,Skinner North,ES,Network 4
 610534,PARENT,Jacqueline F Wernz,51,SKINNER NORTH,Skinner North,ES,Network 4
+610534,PARENT,Chirag  Shah,48,SKINNER NORTH,Skinner North,ES,Network 4
 610534,PARENT,Diamond  Baker,43,SKINNER NORTH,Skinner North,ES,Network 4
 610534,PARENT,Morgan D Jones,37,SKINNER NORTH,Skinner North,ES,Network 4
 610534,PARENT,Jennifer L Bell-Schoon,28,SKINNER NORTH,Skinner North,ES,Network 4
 610534,PARENT,Kyle C Smith,24,SKINNER NORTH,Skinner North,ES,Network 4
-610534,PARENT,Chirag  Shah,0,SKINNER NORTH,Skinner North,ES,Network 4
 610534,TEACHER,Priya J Shah,8,SKINNER NORTH,Skinner North,ES,Network 4
 610534,TEACHER,Mattea  Walsh,4,SKINNER NORTH,Skinner North,ES,Network 4
 609978,COMMUNITY,Myrtle  Fantroy,1,SMITH,Wendell Smith Elementary School,ES,Network 13
@@ -5571,7 +5571,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610124,PARENT,Delois  Dean,9,WASHINGTON H ES,Harold Washington Elementary School,ES,Network 12
 610124,PARENT,Octavia  Moore,7,WASHINGTON H ES,Harold Washington Elementary School,ES,Network 12
 610124,TEACHER,Ona J Jackson-Purnell,3,WASHINGTON H ES,Harold Washington Elementary School,ES,Network 12
-610124,TEACHER,Joann  Hancock,2,WASHINGTON H ES,Harold Washington Elementary School,ES,Network 12
+610124,TEACHER,Joann  Hancock,0,WASHINGTON H ES,Harold Washington Elementary School,ES,Network 12
 609739,COMMUNITY,Peter J Chico,32,WASHINGTON HS,George Washington High School,HS,Network 17
 609739,COMMUNITY,Lucia  Gonzalez,20,WASHINGTON HS,George Washington High School,HS,Network 17
 609739,COMMUNITY,Catalina  Ortiz,19,WASHINGTON HS,George Washington High School,HS,Network 17
