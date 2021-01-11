@@ -334,7 +334,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609796,TEACHER,Deborah L Solka,5,BEAUBIEN,Jean Baptiste Beaubien Elementary School,ES,Network 1
 610237,COMMUNITY,Renita R Clark,1,BEETHOVEN,Ludwig Van Beethoven Elementary School,ES,Network 9
 610237,COMMUNITY,"Richard L Dobbins, Jr.",1,BEETHOVEN,Ludwig Van Beethoven Elementary School,ES,Network 9
-610237,NONTCHSTAFF,Gustavo  Del Real,5,BEETHOVEN,Ludwig Van Beethoven Elementary School,ES,Network 9
 610237,PARENT,Sooniti J Weems,0,BEETHOVEN,Ludwig Van Beethoven Elementary School,ES,Network 9
 610237,PARENT,Tawana F Turner,0,BEETHOVEN,Ludwig Van Beethoven Elementary School,ES,Network 9
 610237,PRINCIPAL,Mellodie L Brown,0,BEETHOVEN,Ludwig Van Beethoven Elementary School,ES,Network 9
@@ -1926,7 +1925,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609910,NONTCHSTAFF,Jill L Woodson,11,FALCONER,Laughlin Falconer Elementary School,ES,Network 3
 609910,PARENT,Ma. Teresa  Zarate,15,FALCONER,Laughlin Falconer Elementary School,ES,Network 3
 609910,PARENT,Maria A Prado,12,FALCONER,Laughlin Falconer Elementary School,ES,Network 3
-609910,PARENT,Rina  Oropeza-Duran Sandoval,9,FALCONER,Laughlin Falconer Elementary School,ES,Network 3
 609910,PARENT,Maria L Martinez,8,FALCONER,Laughlin Falconer Elementary School,ES,Network 3
 609910,PARENT,Thalia  Bendezu,7,FALCONER,Laughlin Falconer Elementary School,ES,Network 3
 609910,PARENT,Elena  Magdaleno,6,FALCONER,Laughlin Falconer Elementary School,ES,Network 3
@@ -3932,7 +3930,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610073,TEACHER,Erick M Evans,7,MITCHELL,Ellen Mitchell Elementary School,ES,Network 5
 610073,TEACHER,Becky L Benkiser,0,MITCHELL,Ellen Mitchell Elementary School,ES,Network 5
 610276,COMMUNITY,Cathy  Dale,40,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
-610276,COMMUNITY,Delores  Jones,11,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
 610276,COMMUNITY,Ronald E Ware,7,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
 610276,NONTCHSTAFF,Larry M Magee II,4,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
 610276,PARENT,Yolanda  Redman,37,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
