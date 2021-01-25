@@ -777,9 +777,9 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610353,COMMUNITY,Socorro  Tapia Corona,6,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
 610353,NONTCHSTAFF,Jaime  Serrano,7,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
 610353,PARENT,JESSICA  HERRERA,14,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
-610353,PARENT,Janett  Ascencio,11,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
+610353,PARENT,Janett  Barraza,11,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
 610353,PARENT,ANDREA  CAMPOS,6,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
-610353,PARENT,Heraclia  Vazquez,6,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
+610353,PARENT,Eraclea  Vazquez,6,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
 610353,PARENT,Celia  Lopez,3,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
 610353,PARENT,Modesta  Robles,3,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
 610353,PRINCIPAL,Sylvia  Orozco-Garcia,0,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,Network 8
@@ -1278,7 +1278,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609870,PRINCIPAL,Carol R Devens-Falk,0,CORKERY,Daniel J Corkery Elementary School,ES,ISP
 609870,TEACHER,Adriana  Pineda,6,CORKERY,Daniel J Corkery Elementary School,ES,ISP
 609870,TEACHER,Evelyn A Mcghee,5,CORKERY,Daniel J Corkery Elementary School,ES,ISP
-609761,COMMUNITY,Cleopatra R Watson,5,CORLISS HS,George H Corliss High School,HS,Network 17
+609761,COMMUNITY,Cleopatra R Watson-Draper,5,CORLISS HS,George H Corliss High School,HS,Network 17
 609761,COMMUNITY,Karen C Green,5,CORLISS HS,George H Corliss High School,HS,Network 17
 609761,NONTCHSTAFF,Harvey L Jones,17,CORLISS HS,George H Corliss High School,HS,Network 17
 609761,NONTCHSTAFF,Sheila D Sterling,8,CORLISS HS,George H Corliss High School,HS,Network 17
@@ -1704,7 +1704,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610352,NONTCHSTAFF,Corina  Hanson,9,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
 610352,PARENT,Marisol E Flores-Partida,20,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
 610352,PARENT,Lauren J Price,10,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
-610352,PARENT,Rebecca N Zuniga,10,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
 610352,PARENT,Sabrina M Diaz,9,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
 610352,PARENT,Maria G Renteria,8,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
 610352,PARENT,Josue  Cruz,7,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
@@ -2085,7 +2084,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610503,PARENT,Shulanda L Sullivan,5,FRAZIER PROSPECTIVE,Frazier Prospective IB Magnet ES,ES,ISP
 610503,PARENT,Beverly  Patten,4,FRAZIER PROSPECTIVE,Frazier Prospective IB Magnet ES,ES,ISP
 610503,PARENT,Latasha  Coleman,4,FRAZIER PROSPECTIVE,Frazier Prospective IB Magnet ES,ES,ISP
-610503,PARENT,Rachel  Young,4,FRAZIER PROSPECTIVE,Frazier Prospective IB Magnet ES,ES,ISP
 610503,PARENT,Tomi  Michaud,3,FRAZIER PROSPECTIVE,Frazier Prospective IB Magnet ES,ES,ISP
 610503,PRINCIPAL,Charlette E Broxton,0,FRAZIER PROSPECTIVE,Frazier Prospective IB Magnet ES,ES,ISP
 610503,TEACHER,Laura M Crawford,5,FRAZIER PROSPECTIVE,Frazier Prospective IB Magnet ES,ES,ISP
@@ -2249,7 +2247,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610558,PARENT,Maria  Cerrilo,8,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
 610558,PRINCIPAL,Armando  Rodriguez,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
 610558,PRINCIPAL,Armando  Rodriguez,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
-610558,TEACHER,Brandi D McClinton,11,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
+610558,TEACHER,Brandi D Campbell,11,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
 610558,TEACHER,David  Plascencia,5,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
 609945,COMMUNITY,Vera F Dowell,123,GOUDY,William C. Goudy Technology Academy,ES,ISP
 609945,COMMUNITY,Nicholas C Ward,91,GOUDY,William C. Goudy Technology Academy,ES,ISP
@@ -2967,12 +2965,12 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610011,TEACHER,Robert L Newton,9,JAMIESON,Minnie Mars Jamieson Elementary School,ES,Network 2
 609783,ADVOCATE,David  Fischer,9,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
 609783,ADVOCATE,Eddie  Phillips,9,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
+609783,ADVOCATE,Matthew  Johnson,9,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
 609783,ADVOCATE,Nick  Youngblood,9,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
 609783,ADVOCATE,Norma  Lopez-Reyna,9,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
 609783,ADVOCATE,Taofik  Hassan,9,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
 609783,ADVOCATE,Tina  Young,9,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
 609783,COMMUNITY,Brian  Conant,9,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
-609783,COMMUNITY,Matthew  Johnson,9,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
 609783,PRINCIPAL,Leonard  Harris,0,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
 609783,PRINCIPAL,Leonard  Harris,0,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
 609783,TEACHER,Cherice M Ramey,42,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,Network 16
@@ -3544,8 +3542,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610041,PARENT,Amanda  Rivera,14,LOCKE J,Josephine C Locke Elementary School,ES,Network 3
 610041,PARENT,Geovanny  Rodriguez,14,LOCKE J,Josephine C Locke Elementary School,ES,Network 3
 610041,PARENT,BIENVENIDO  LOPEZ,13,LOCKE J,Josephine C Locke Elementary School,ES,Network 3
-610041,PARENT,Jennifer  Iman,9,LOCKE J,Josephine C Locke Elementary School,ES,Network 3
-610041,PARENT,Erica M Cione,7,LOCKE J,Josephine C Locke Elementary School,ES,Network 3
 610041,PRINCIPAL,John G Fitzpatrick,0,LOCKE J,Josephine C Locke Elementary School,ES,Network 3
 610041,TEACHER,Nicole R Shere,17,LOCKE J,Josephine C Locke Elementary School,ES,Network 3
 610041,TEACHER,Patrick  Crall,13,LOCKE J,Josephine C Locke Elementary School,ES,Network 3
@@ -4360,8 +4356,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610105,PARENT,Bridget  Kelly,200,ORIOLE PARK,Oriole Park Elementary School,ES,Network 1
 610105,PARENT,Patrick  Kelly,187,ORIOLE PARK,Oriole Park Elementary School,ES,Network 1
 610105,PARENT,Dove  Scoufis,179,ORIOLE PARK,Oriole Park Elementary School,ES,Network 1
-610105,PARENT,Elizabeth  Schultz,107,ORIOLE PARK,Oriole Park Elementary School,ES,Network 1
-610105,PARENT,Julie  Fehler-Render,98,ORIOLE PARK,Oriole Park Elementary School,ES,Network 1
 610105,PARENT,Al  Grippe,86,ORIOLE PARK,Oriole Park Elementary School,ES,Network 1
 610105,PARENT,Rolando  DeLuna,65,ORIOLE PARK,Oriole Park Elementary School,ES,Network 1
 610105,PARENT,Sean  Rabiola,58,ORIOLE PARK,Oriole Park Elementary School,ES,Network 1
