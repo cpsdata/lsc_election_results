@@ -155,7 +155,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610268,PARENT,Jimmy L Fonder,2,ASHE,Arthur R Ashe Elementary School,ES,Network 12
 610268,PARENT,LaTasha I Whitehead,2,ASHE,Arthur R Ashe Elementary School,ES,Network 12
 610268,PARENT,Ronald M Jones Sr.,2,ASHE,Arthur R Ashe Elementary School,ES,Network 12
-610268,PARENT,Nikcole I Hunter,1,ASHE,Arthur R Ashe Elementary School,ES,Network 12
 610268,PARENT,Renee S Byrd,0,ASHE,Arthur R Ashe Elementary School,ES,Network 12
 610268,PRINCIPAL,Clyde  King Jr.,0,ASHE,Arthur R Ashe Elementary School,ES,Network 12
 610268,TEACHER,Marquita A Jones,5,ASHE,Arthur R Ashe Elementary School,ES,Network 12
@@ -2778,7 +2777,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609997,NONTCHSTAFF,Clarence  Scott,3,HOLMES,Oliver Wendell Holmes Elementary School,ES,Network 11
 609997,PARENT,Ja'Lance  Hunt,2,HOLMES,Oliver Wendell Holmes Elementary School,ES,Network 11
 609997,PARENT,Tamara L Smith,2,HOLMES,Oliver Wendell Holmes Elementary School,ES,Network 11
-609997,PARENT,Gabriela A Binford,1,HOLMES,Oliver Wendell Holmes Elementary School,ES,Network 11
 609997,PARENT,Regina F Shipp,1,HOLMES,Oliver Wendell Holmes Elementary School,ES,Network 11
 609997,PARENT,Tamikla  Haymore,1,HOLMES,Oliver Wendell Holmes Elementary School,ES,Network 11
 609997,PARENT,La'Shara T Martin,0,HOLMES,Oliver Wendell Holmes Elementary School,ES,Network 11
@@ -3144,7 +3142,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610016,TEACHER,Jennifer  Freeman,5,KELLOGG,Kate S Kellogg Elementary School,ES,Network 10
 609715,COMMUNITY,Jose F Hernandez,25,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
 609715,COMMUNITY,Theresa  Mah,25,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
-609715,NONTCHSTAFF,Adriana P Rosales,19,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
 609715,PARENT,Carmela  Cruz,24,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
 609715,PARENT,Adela  Tapia,16,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
 609715,PARENT,Anna M Espinosa,16,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
