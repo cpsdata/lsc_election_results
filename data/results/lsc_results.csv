@@ -244,7 +244,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609788,PRINCIPAL,Kathleen T Valente,0,BARNARD,Alice L Barnard Computer Math & Science Ctr ES,ES,Network 10
 609788,TEACHER,Patricia E Flanagan,1,BARNARD,Alice L Barnard Computer Math & Science Ctr ES,ES,Network 10
 609789,NONTCHSTAFF,Donna J Hansen,9,BARRY,John Barry Elementary School,ES,Network 4
-609789,PARENT,Ma. Esther  Martinez,9,BARRY,John Barry Elementary School,ES,Network 4
 609789,PARENT,David  Lara,6,BARRY,John Barry Elementary School,ES,Network 4
 609789,PARENT,Joana  Torres,6,BARRY,John Barry Elementary School,ES,Network 4
 609789,PARENT,Benjamin  Morales,5,BARRY,John Barry Elementary School,ES,Network 4
@@ -394,7 +393,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609922,PARENT,Sandra T Varela-Torres,3,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,ISP
 609922,PARENT,Dorian  Matias-Williams,2,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,ISP
 609922,PARENT,Mildred  Ruiz,1,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,ISP
-609922,PRINCIPAL,Stacy P Stewart,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,ISP
 609922,TEACHER,Mireya  Muhlberger,8,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,ISP
 609922,TEACHER,Saskia T Benitez,6,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,ISP
 609922,TEACHER,Justin  Platzner,5,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,ISP
@@ -428,7 +426,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609803,NONTCHSTAFF,Ricky D McFadden,14,BLAINE,James G Blaine Elementary School,ES,Network 4
 609803,PARENT,William R Gladden,54,BLAINE,James G Blaine Elementary School,ES,Network 4
 609803,PARENT,Carina E Sanchez,46,BLAINE,James G Blaine Elementary School,ES,Network 4
-609803,PARENT,Deirdre  Campbell,46,BLAINE,James G Blaine Elementary School,ES,Network 4
 609803,PARENT,Shari F Keiser,44,BLAINE,James G Blaine Elementary School,ES,Network 4
 609803,PARENT,Matthew E Dayton,42,BLAINE,James G Blaine Elementary School,ES,Network 4
 609803,PARENT,Sarah E Pritz Shields,36,BLAINE,James G Blaine Elementary School,ES,Network 4
@@ -1261,7 +1258,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609867,PARENT,Anabel  Perez,6,COOPER,Peter Cooper Elementary Dual Language Academy,ES,Network 7
 609867,PARENT,Leobarda  Garcia,6,COOPER,Peter Cooper Elementary Dual Language Academy,ES,Network 7
 609867,PARENT,Carmela  Llanos,3,COOPER,Peter Cooper Elementary Dual Language Academy,ES,Network 7
-609867,PARENT,Monica  Rios,2,COOPER,Peter Cooper Elementary Dual Language Academy,ES,Network 7
+609867,PARENT,Maribel  Rios,2,COOPER,Peter Cooper Elementary Dual Language Academy,ES,Network 7
 609867,PRINCIPAL,Martha  Alba,0,COOPER,Peter Cooper Elementary Dual Language Academy,ES,Network 7
 609867,TEACHER,Claudia  Vailant,7,COOPER,Peter Cooper Elementary Dual Language Academy,ES,Network 7
 609867,TEACHER,Alfredo  Calderon,5,COOPER,Peter Cooper Elementary Dual Language Academy,ES,Network 7
@@ -1305,7 +1302,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610561,COMMUNITY,Anna M Cirilli,11,CRANE MEDICAL HS,Richard T Crane Medical Preparatory HS,HS,Network 15
 610561,NONTCHSTAFF,Angela  Duran-Simental,6,CRANE MEDICAL HS,Richard T Crane Medical Preparatory HS,HS,Network 15
 610561,NONTCHSTAFF,Maurice D Garner,2,CRANE MEDICAL HS,Richard T Crane Medical Preparatory HS,HS,Network 15
-610561,PARENT,Latasha  Ballentine,6,CRANE MEDICAL HS,Richard T Crane Medical Preparatory HS,HS,Network 15
 610561,PARENT,Sheris  Griffin,6,CRANE MEDICAL HS,Richard T Crane Medical Preparatory HS,HS,Network 15
 610561,PARENT,Catherine  James-Matthews,5,CRANE MEDICAL HS,Richard T Crane Medical Preparatory HS,HS,Network 15
 610561,PARENT,Tawyna D Gaddy,5,CRANE MEDICAL HS,Richard T Crane Medical Preparatory HS,HS,Network 15
@@ -1637,7 +1633,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609894,PARENT,Lashaunda  Jackson,2,DRAKE,John B Drake Elementary School,ES,Network 9
 609894,PARENT,Melvin J McClendon,2,DRAKE,John B Drake Elementary School,ES,Network 9
 609894,PARENT,Schena  Jones,2,DRAKE,John B Drake Elementary School,ES,Network 9
-609894,PARENT,Tawanna S Williams,2,DRAKE,John B Drake Elementary School,ES,Network 9
 609894,PARENT,Lynnita M Coleman,1,DRAKE,John B Drake Elementary School,ES,Network 9
 609894,PRINCIPAL,Sydney J Golliday,0,DRAKE,John B Drake Elementary School,ES,Network 9
 609894,TEACHER,Nai V Colton,11,DRAKE,John B Drake Elementary School,ES,Network 9
@@ -2181,7 +2176,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610128,PARENT,Demetrice  Plummer,1,GARVEY,Marcus Moziah Garvey Elementary School,ES,Network 13
 610128,PRINCIPAL,Sabrina  Anderson,0,GARVEY,Marcus Moziah Garvey Elementary School,ES,Network 13
 610128,TEACHER,Lori A Guidry,2,GARVEY,Marcus Moziah Garvey Elementary School,ES,Network 13
-610128,TEACHER,Elizabeth A Abioro,1,GARVEY,Marcus Moziah Garvey Elementary School,ES,Network 13
 609937,COMMUNITY,Michael J Gadzinski,50,GARVY,John W Garvy Elementary School,ES,Network 1
 609937,COMMUNITY,Barbara F Fabris,25,GARVY,John W Garvy Elementary School,ES,Network 1
 609937,NONTCHSTAFF,Victoria M Grau,5,GARVY,John W Garvy Elementary School,ES,Network 1
@@ -2337,10 +2331,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609954,COMMUNITY,Brenda T James,1,GREGORY,John Milton Gregory Elementary School,ES,Network 5
 609954,NONTCHSTAFF,Takeima C Hale,10,GREGORY,John Milton Gregory Elementary School,ES,Network 5
 609954,PARENT,Sharika C Patterson,4,GREGORY,John Milton Gregory Elementary School,ES,Network 5
-609954,PARENT,Xavier C Williams,2,GREGORY,John Milton Gregory Elementary School,ES,Network 5
-609954,PARENT,Audrey L Gaston,1,GREGORY,John Milton Gregory Elementary School,ES,Network 5
 609954,PARENT,LaDonna M Smith,1,GREGORY,John Milton Gregory Elementary School,ES,Network 5
-609954,PARENT,Regina M Green,1,GREGORY,John Milton Gregory Elementary School,ES,Network 5
 609954,PARENT,Sade G Barnes,1,GREGORY,John Milton Gregory Elementary School,ES,Network 5
 609954,PRINCIPAL,Donella  Carter,0,GREGORY,John Milton Gregory Elementary School,ES,Network 5
 609954,TEACHER,April L Trentham,8,GREGORY,John Milton Gregory Elementary School,ES,Network 5
@@ -2626,7 +2617,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609981,PARENT,Latasha C Gillespie,6,HEARST,Phoebe Apperson Hearst Elementary School,ES,Network 10
 609981,PARENT,Mildred  stokes,6,HEARST,Phoebe Apperson Hearst Elementary School,ES,Network 10
 609981,PARENT,Rosa A Alanis,6,HEARST,Phoebe Apperson Hearst Elementary School,ES,Network 10
-609981,PARENT,Blanca E Serna,4,HEARST,Phoebe Apperson Hearst Elementary School,ES,Network 10
 609981,PARENT,Teanna D Cogwell,2,HEARST,Phoebe Apperson Hearst Elementary School,ES,Network 10
 609981,PRINCIPAL,Teresa H Chrobak-Prince,0,HEARST,Phoebe Apperson Hearst Elementary School,ES,Network 10
 609981,TEACHER,Susan A O'Neill,5,HEARST,Phoebe Apperson Hearst Elementary School,ES,Network 10
@@ -2769,7 +2759,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609996,PARENT,Vanessa  Gracia,10,HOLDEN,Charles N Holden Elementary School,ES,ISP
 609996,PARENT,CARLOS  PEREZ,6,HOLDEN,Charles N Holden Elementary School,ES,ISP
 609996,PARENT,MARIA  TORRES,6,HOLDEN,Charles N Holden Elementary School,ES,ISP
-609996,PARENT,LILLIAN  TORO-RENTERIA,5,HOLDEN,Charles N Holden Elementary School,ES,ISP
 609996,PRINCIPAL,Konstantinos  Patsiopoulos,0,HOLDEN,Charles N Holden Elementary School,ES,ISP
 609996,TEACHER,Rosa  Martinez,14,HOLDEN,Charles N Holden Elementary School,ES,ISP
 609996,TEACHER,Lori A Phillips,13,HOLDEN,Charles N Holden Elementary School,ES,ISP
@@ -2911,7 +2900,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610121,NONTCHSTAFF,Tiffany R Horton,6,IRVING,Washington Irving Elementary School,ES,Network 6
 610121,PARENT,Barbara N Meschino,5,IRVING,Washington Irving Elementary School,ES,Network 6
 610121,PARENT,Yesenia  Ortiz,4,IRVING,Washington Irving Elementary School,ES,Network 6
-610121,PRINCIPAL,Narineh  Gharashor,0,IRVING,Washington Irving Elementary School,ES,Network 6
 610121,TEACHER,Kenge E McCall,6,IRVING,Washington Irving Elementary School,ES,Network 6
 610121,TEACHER,Linta D Carter-Weathers,6,IRVING,Washington Irving Elementary School,ES,Network 6
 610121,TEACHER,Ebony M Wiggins,1,IRVING,Washington Irving Elementary School,ES,Network 6
@@ -3031,7 +3019,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609805,PARENT,Tia  Woods,4,JOPLIN,Scott Joplin Elementary School,ES,Network 11
 609805,PARENT,Trinetta  Robinson,4,JOPLIN,Scott Joplin Elementary School,ES,Network 11
 609805,PARENT,Willie  Preston,4,JOPLIN,Scott Joplin Elementary School,ES,Network 11
-609805,PRINCIPAL,Alene  Mason,0,JOPLIN,Scott Joplin Elementary School,ES,Network 11
 609805,TEACHER,Yoko  Wimby,5,JOPLIN,Scott Joplin Elementary School,ES,Network 11
 609805,TEACHER,Tiajuana S Dixon-Bowen,4,JOPLIN,Scott Joplin Elementary School,ES,Network 11
 609865,COMMUNITY,Tiffany  Bull,5,JORDAN,Jordan Elementary Community School,ES,Network 2
@@ -3143,7 +3130,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609715,COMMUNITY,Jose F Hernandez,25,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
 609715,COMMUNITY,Theresa  Mah,25,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
 609715,PARENT,Carmela  Cruz,24,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
-609715,PARENT,Adela  Tapia,16,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
+609715,PARENT,Adela  Hernandez,16,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
 609715,PARENT,Anna M Espinosa,16,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
 609715,PARENT,Faustina  Vargas,13,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
 609715,PARENT,Patricia  Paulino,11,KELLY HS,Thomas Kelly College Preparatory,HS,Network 16
@@ -4263,7 +4250,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609749,PARENT,John J Lynch,62,NORTHSIDE PREP HS,Northside College Preparatory High School,HS,ISP
 609749,PARENT,Brad K Hack,49,NORTHSIDE PREP HS,Northside College Preparatory High School,HS,ISP
 609749,PARENT,Kirsten F Brandt,32,NORTHSIDE PREP HS,Northside College Preparatory High School,HS,ISP
-609749,PRINCIPAL,Kelly L Mest,0,NORTHSIDE PREP HS,Northside College Preparatory High School,HS,ISP
 609749,TEACHER,Martha L Mulligan,12,NORTHSIDE PREP HS,Northside College Preparatory High School,HS,ISP
 609749,TEACHER,Gregory T Difrancesco,10,NORTHSIDE PREP HS,Northside College Preparatory High School,HS,ISP
 610051,COMMUNITY,Gabriela  Lucatero,8,NORTHWEST,Northwest Middle School,MS,Network 3
@@ -5232,7 +5218,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610173,COMMUNITY,Vanessa  Howard,3,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
 610173,NONTCHSTAFF,Rosalind A McGehee,5,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
 610173,PARENT,Earnestine  Daniels,5,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
-610173,PARENT,Janice  Hardy,4,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
 610173,PARENT,Alisa  Johnson,3,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
 610173,PARENT,Carolyn  Perry,3,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
 610173,PARENT,Mario  Perry,3,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
@@ -5489,7 +5474,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610339,COMMUNITY,Latasha A Claiborne,0,STAGG,Amos Alonzo Stagg Elementary School,ES,AUSL
 610339,NONTCHSTAFF,Felicia L Gardner,5,STAGG,Amos Alonzo Stagg Elementary School,ES,AUSL
 610339,PARENT,Carletta L Johnson,9,STAGG,Amos Alonzo Stagg Elementary School,ES,AUSL
-610339,PARENT,Cashmere  Anderson,6,STAGG,Amos Alonzo Stagg Elementary School,ES,AUSL
 610339,PARENT,Michelle A Harris,4,STAGG,Amos Alonzo Stagg Elementary School,ES,AUSL
 610339,PARENT,Lakisha M Williams,3,STAGG,Amos Alonzo Stagg Elementary School,ES,AUSL
 610339,PARENT,Shefenee  Bent,3,STAGG,Amos Alonzo Stagg Elementary School,ES,AUSL
@@ -5723,7 +5707,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609921,TEACHER,Jennifer  Klonsky,2,TELPOCHCALLI,Telpochcalli Elementary School,ES,Network 7
 610504,ADVOCATE,Ilinca A Wallace,1,THOMAS,Velma F Thomas Early Childhood Center,ES,ISP
 610504,ADVOCATE,Laura E Lopez,1,THOMAS,Velma F Thomas Early Childhood Center,ES,ISP
-610504,COMMUNITY,Linda M Diaz,1,THOMAS,Velma F Thomas Early Childhood Center,ES,ISP
 610504,COMMUNITY,Maricela  Herrera,1,THOMAS,Velma F Thomas Early Childhood Center,ES,ISP
 610504,PARENT,Delilah D Salgado,1,THOMAS,Velma F Thomas Early Childhood Center,ES,ISP
 610504,PARENT,Joanna M Quealy,1,THOMAS,Velma F Thomas Early Childhood Center,ES,ISP
