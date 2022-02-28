@@ -60,6 +60,12 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609800,PARENT,Doris J Chester,0,BENNETT,Frank I Bennett Elementary School,ES,Network 13
 609800,PARENT,Sharay  Johnson,0,BENNETT,Frank I Bennett Elementary School,ES,Network 13
 609800,TEACHER,Aubrey C Volious,0,BENNETT,Frank I Bennett Elementary School,ES,Network 13
+610350,NONTCHSTAFF,Mary T Williams,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
+610350,PARENT,Ashley  Hayes,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
+610350,PARENT,Latisha Y Fleury,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
+610350,PARENT,Michelle  Carter,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
+610350,TEACHER,Ain D Muhammad,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
+610350,TEACHER,Rhonda D Parks- Jackson,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
 610238,PARENT,Aisha  King,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
 610238,PARENT,Charissa  Trawick,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
 610238,PARENT,Monique  Trimble,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
@@ -529,6 +535,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609968,PARENT,Jennifer  Barrera,0,MCAULIFFE,Sharon Christa McAuliffe Elementary School,ES,Network 4
 609968,TEACHER,Erin V Pendergast,0,MCAULIFFE,Sharon Christa McAuliffe Elementary School,ES,Network 4
 609968,TEACHER,Lilian  Arroyo,0,MCAULIFFE,Sharon Christa McAuliffe Elementary School,ES,Network 4
+610063,COMMUNITY,Ana G Oria,0,MCCORMICK,Cyrus H McCormick Elementary School,ES,Network 7
 610063,PARENT,Esmeralda  Arroyo,0,MCCORMICK,Cyrus H McCormick Elementary School,ES,Network 7
 610269,COMMUNITY,Wilma L Pittman,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
 610269,PARENT,Davainya S Thompson,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
