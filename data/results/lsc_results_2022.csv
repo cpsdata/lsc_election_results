@@ -1053,6 +1053,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610185,TEACHER,Maricela  Carreno,0,STEVENSON,Adlai E Stevenson Elementary School,ES,Network 10
 610191,NONTCHSTAFF,Olga M Estrada,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
 610191,PARENT,Ayana A Rhodes-Morton,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
+610191,PARENT,Jennifer  Trautvetter,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
 610191,PARENT,Kimberly  Shore,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
 610191,PARENT,Michael O Kurtz,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
 610191,TEACHER,Jeremy  Parker,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
@@ -1178,6 +1179,8 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609977,PARENT,STEPHON R ROBINSON,0,WOODLAWN,Woodlawn Community Elementary School,ES,Network 9
 609977,TEACHER,Lindsay  Jefferson,0,WOODLAWN,Woodlawn Community Elementary School,ES,Network 9
 609977,TEACHER,Rachel N Roberts,0,WOODLAWN,Woodlawn Community Elementary School,ES,Network 9
+610235,COMMUNITY,George  Heard,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
+610235,COMMUNITY,Lavita  Redmond,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
 610235,PARENT,Alisha  Scott,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
 610235,PARENT,Dessenia  Rosas,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
 610235,PARENT,Lexnic  Adan,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
