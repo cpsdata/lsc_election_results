@@ -82,7 +82,9 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610083,PARENT,Stacey  Craelius,0,BEARD,Daniel C Beard Elementary School,ES,Network 1
 610083,TEACHER,Andrea D Patrinos,0,BEARD,Daniel C Beard Elementary School,ES,Network 1
 610083,TEACHER,Michele R Van Pelt,0,BEARD,Daniel C Beard Elementary School,ES,Network 1
+610246,COMMUNITY,Karen D Shyne,0,BEASLEY,Edward Beasley Elementary Magnet Academic Center,ES,Network 9
 610246,NONTCHSTAFF,Derrick  Stokes,0,BEASLEY,Edward Beasley Elementary Magnet Academic Center,ES,Network 9
+610246,PARENT,Dianna R Smith,0,BEASLEY,Edward Beasley Elementary Magnet Academic Center,ES,Network 9
 609797,COMMUNITY,Patricia R Lyles,0,BEIDLER,Jacob Beidler Elementary School,ES,Network 5
 609797,COMMUNITY,Tqunish  Hamilton,0,BEIDLER,Jacob Beidler Elementary School,ES,Network 5
 609797,NONTCHSTAFF,Alicia G Mooney,0,BEIDLER,Jacob Beidler Elementary School,ES,Network 5
@@ -700,6 +702,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609938,TEACHER,Mary E Kussmann,0,GARY,Joseph E Gary Elementary School,ES,Network 7
 609938,TEACHER,Molly E Cooks,0,GARY,Joseph E Gary Elementary School,ES,Network 7
 609939,NONTCHSTAFF,Valerie R Shannon,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
+609939,TEACHER,Linda F Cunningham-Brothers,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609942,PARENT,Amanda G Bull,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
 609942,PARENT,Enrique  Cruz,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
 609942,PARENT,Leidy M Melendez,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
@@ -1689,6 +1692,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610191,NONTCHSTAFF,Olga M Estrada,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
 610191,PARENT,Ayana A Rhodes-Morton,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
 610191,PARENT,Jennifer  Trautvetter,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
+610191,PARENT,Joseph B Burton,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
 610191,PARENT,Kimberly  Shore,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
 610191,PARENT,Michael O Kurtz,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
 610191,TEACHER,Jamie L Perry,0,STONE,Stone Elementary Scholastic Academy,ES,Network 2
@@ -1704,7 +1708,9 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610279,PARENT,Chiquitta  Warfield,0,TANNER,Henry O Tanner Elementary School,ES,Network 12
 610279,TEACHER,Launder F Carter,0,TANNER,Henry O Tanner Elementary School,ES,Network 12
 610279,TEACHER,Tanneshia  Wilson- Wearring,0,TANNER,Henry O Tanner Elementary School,ES,Network 12
+609921,PARENT,Diego  Paredes-Villar,0,TELPOCHCALLI,Telpochcalli Elementary School,ES,Network 7
 609921,PARENT,Faustina  Vargas,0,TELPOCHCALLI,Telpochcalli Elementary School,ES,Network 7
+609921,TEACHER,Maria D Soria,0,TELPOCHCALLI,Telpochcalli Elementary School,ES,Network 7
 610200,COMMUNITY,David C Vance,0,THORP J,James N Thorp Elementary School,ES,Network 12
 610200,PARENT,Ebonie S Davis,0,THORP J,James N Thorp Elementary School,ES,Network 12
 610200,TEACHER,Angelica  Sierra-Correa,0,THORP J,James N Thorp Elementary School,ES,Network 12
@@ -1851,6 +1857,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610100,PARENT,Madonna  Love,0,WEST PARK,West Park Elementary Academy,ES,Network 5
 610100,TEACHER,Carmen M Morales,0,WEST PARK,West Park Elementary Academy,ES,Network 5
 610100,TEACHER,Donyielle A Josephs,0,WEST PARK,West Park Elementary Academy,ES,Network 5
+610100,TEACHER,Wynter J Rose,0,WEST PARK,West Park Elementary Academy,ES,Network 5
 609693,NONTCHSTAFF,Patricia  Alfaro,0,WESTINGHOUSE HS,George Westinghouse College Prep,HS,Network 15
 609693,PARENT,Peace  Mike,0,WESTINGHOUSE HS,George Westinghouse College Prep,HS,Network 15
 609693,TEACHER,Allen Q Jones,0,WESTINGHOUSE HS,George Westinghouse College Prep,HS,Network 15
