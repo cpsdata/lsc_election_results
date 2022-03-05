@@ -749,9 +749,12 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610263,PARENT,Portia D Braswell,0,DULLES,John Foster Dulles Elementary School,ES,AUSL
 610263,TEACHER,Sheena S Watkins,0,DULLES,John Foster Dulles Elementary School,ES,AUSL
 610352,COMMUNITY,Zanthe R Scott,0,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
+610352,NONTCHSTAFF,Corina  Hanson,0,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
 610352,PARENT,Hector  Cano,0,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
 610352,PARENT,Lisa S Sotelo,0,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
 610352,PARENT,Sabrina  Diaz,0,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
+610352,TEACHER,Helena F Branch,0,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
+610352,TEACHER,Jennifer A Fleming,0,DURKIN PARK,Durkin Park Elementary School,ES,Network 10
 610254,NONTCHSTAFF,Janie  Rucker,0,DVORAK,Dvorak Technology Academy,ES,Network 7
 610254,TEACHER,Deshaun A Simmons,0,DVORAK,Dvorak Technology Academy,ES,Network 7
 610254,TEACHER,Kjerstin J Anderson,0,DVORAK,Dvorak Technology Academy,ES,Network 7
@@ -1556,6 +1559,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610269,COMMUNITY,Wilma L Pittman,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
 610269,PARENT,Davainya S Thompson,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
 610269,PARENT,Jacoby A Warren,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
+610269,PARENT,Sheena A Williams,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
 610066,COMMUNITY,Monique M Medley,0,MCDADE,James E McDade Elementary Classical School,ES,Network 12
 610066,COMMUNITY,Yvonne  Tuck,0,MCDADE,James E McDade Elementary Classical School,ES,Network 12
 610066,PARENT,Dagene Z Brown,0,MCDADE,James E McDade Elementary Classical School,ES,Network 12
@@ -1762,6 +1766,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610102,PARENT,Tiara D Chatman,0,OGLESBY,Richard J Oglesby Elementary School,ES,Network 11
 610102,TEACHER,Davontee C Sabbs,0,OGLESBY,Richard J Oglesby Elementary School,ES,Network 11
 610102,TEACHER,Hidejah N Sheppard,0,OGLESBY,Richard J Oglesby Elementary School,ES,Network 11
+610103,COMMUNITY,Cynthia A Cody,0,OKEEFFE,Isabelle C O'Keeffe Elementary School,ES,AUSL
 610103,COMMUNITY,Velma L Thomas,0,OKEEFFE,Isabelle C O'Keeffe Elementary School,ES,AUSL
 610103,NONTCHSTAFF,Terence  Knight,0,OKEEFFE,Isabelle C O'Keeffe Elementary School,ES,AUSL
 610103,PARENT,Nataska K Kidd,0,OKEEFFE,Isabelle C O'Keeffe Elementary School,ES,AUSL
