@@ -150,9 +150,12 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609800,TEACHER,Aubrey C Volious,0,BENNETT,Frank I Bennett Elementary School,ES,Network 13
 609800,TEACHER,Diane C Villarreal,0,BENNETT,Frank I Bennett Elementary School,ES,Network 13
 610350,COMMUNITY,Andre J Kelley,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
+610350,COMMUNITY,Edtra T Flowers,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
+610350,COMMUNITY,Reginald  Guy II,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
 610350,NONTCHSTAFF,Mary T Williams,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
 610350,PARENT,Ashley  Hayes,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
 610350,PARENT,Latisha Y Fleury,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
+610350,PARENT,Melanie D McLee,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
 610350,PARENT,Michelle  Carter,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
 610350,TEACHER,Ain D Muhammad,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
 610350,TEACHER,Rhonda D Parks- Jackson,0,BLACK,Robert A Black Magnet Elementary School,ES,Network 12
@@ -2517,8 +2520,10 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609748,TEACHER,Stephen C Godfrey,0,YORK HS,Consuella B York Alternative HS,HS,Network 16
 610235,COMMUNITY,George  Heard,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
 610235,COMMUNITY,Lavita  Redmond,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
+610235,COMMUNITY,Verastine  Wardlaw,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
 610235,PARENT,Alisha  Scott,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
 610235,PARENT,Dessenia  Rosas,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
+610235,PARENT,Kimberly  Jones,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
 610235,PARENT,Lexnic  Adan,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
 610235,PARENT,Sencida  Hernandez,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
 610235,TEACHER,Daifa  Cegueda,0,YOUNG ES,Ella Flagg Young Elementary School,ES,Network 3
