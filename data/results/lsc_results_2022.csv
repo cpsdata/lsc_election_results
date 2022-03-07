@@ -199,6 +199,19 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610323,TEACHER,Kenneth C Wilson,0,BOWEN HS,Bowen High School,HS,Network 17
 609806,PARENT,Delores  Stevens,0,BRADWELL,Myra Bradwell Communications Arts & Sciences ES,ES,Network 12
 609806,PARENT,Lakisha F Franklin,0,BRADWELL,Myra Bradwell Communications Arts & Sciences ES,ES,Network 12
+610242,COMMUNITY,Adam B Gunther,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,COMMUNITY,Angela  Clay,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,COMMUNITY,Jerrell L Allen,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,COMMUNITY,Jessica L Woll,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,NONTCHSTAFF,Joshua A Farayola,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,PARENT,Eliseo O Lopez,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,PARENT,Ieshia  Thomason,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,PARENT,Jade R Moore,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,PARENT,Jeaneen S Jones,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,PARENT,Matilde P Juarez,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,PARENT,Nicolas J Maraccini,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,TEACHER,Ivelyne L Armand,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
+610242,TEACHER,Jessica L Broniarczyk,0,BRENNEMANN,Joseph Brennemann Elementary School,ES,Network 2
 609809,COMMUNITY,Aida  Conroy,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
 609809,COMMUNITY,Joshua  Levin,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
 609809,NONTCHSTAFF,Alexandra I Arango,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
@@ -513,6 +526,12 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609855,TEACHER,Michelle D Ludwig,0,CHRISTOPHER,Walter S Christopher Elementary School,ES,Network 8
 609855,TEACHER,Susana  Tapia-Alvarez,0,CHRISTOPHER,Walter S Christopher Elementary School,ES,Network 8
 610347,PARENT,Katrina  White,0,CLAREMONT,Claremont Academy Elementary School,ES,Network 10
+609795,COMMUNITY,Allison J Dooley,0,CLARK ES,George Rogers Clark Elementary School,ES,ISP
+609795,PARENT,Daniel R Taylor,0,CLARK ES,George Rogers Clark Elementary School,ES,ISP
+609795,PARENT,Nathan P Tubbs,0,CLARK ES,George Rogers Clark Elementary School,ES,ISP
+609795,PARENT,Shavannah  Franklin,0,CLARK ES,George Rogers Clark Elementary School,ES,ISP
+609795,PRINCIPAL,Natasha L Buckner-Pena,0,CLARK ES,George Rogers Clark Elementary School,ES,ISP
+609795,TEACHER,Nicholas T Jennings,0,CLARK ES,George Rogers Clark Elementary School,ES,ISP
 609856,COMMUNITY,Antoinette R Islas,0,CLAY,Henry Clay Elementary School,ES,Network 13
 609856,NONTCHSTAFF,Kathleen  Sylvertooth,0,CLAY,Henry Clay Elementary School,ES,Network 13
 609856,PARENT,Maria G Amezcua-Garcia,0,CLAY,Henry Clay Elementary School,ES,Network 13
@@ -982,6 +1001,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609938,PARENT,Patricia  Espino,0,GARY,Joseph E Gary Elementary School,ES,Network 7
 609938,TEACHER,Mary E Kussmann,0,GARY,Joseph E Gary Elementary School,ES,Network 7
 609938,TEACHER,Molly E Cooks,0,GARY,Joseph E Gary Elementary School,ES,Network 7
+609939,COMMUNITY,Gloria B Pittman,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609939,NONTCHSTAFF,Valerie R Shannon,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609939,TEACHER,Linda F Cunningham-Brothers,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609942,PARENT,Amanda G Bull,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
@@ -989,11 +1009,16 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609942,PARENT,Leidy M Melendez,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
 609942,TEACHER,Jacqueline  Alvarez,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
 609942,TEACHER,Megan H Ali,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
+610558,COMMUNITY,Miguel  Montero,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
 610558,COMMUNITY,Veronica  Pantoja,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
 610558,NONTCHSTAFF,Keith E Miller,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
+610558,PARENT,Alyssa M Matos,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
 610558,PARENT,Gloria  Padilla,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
 610558,PARENT,Lynda N Smith,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
 610558,PARENT,Olga L Torres,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
+610558,PARENT,Reyes I Ana,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
+610558,TEACHER,David  Plascencia,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
+610558,TEACHER,Martin L Block,0,GOODE HS,Sarah E. Goode STEM Academy,HS,Network 16
 609945,NONTCHSTAFF,Sejla  Hodzic-Kovacevic,0,GOUDY,William C. Goudy Technology Academy,ES,ISP
 609945,PARENT,Carlos R Portillo,0,GOUDY,William C. Goudy Technology Academy,ES,ISP
 609945,PARENT,Diana A Molina,0,GOUDY,William C. Goudy Technology Academy,ES,ISP
@@ -2140,6 +2165,12 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610081,PARENT,Shannon  Allison,0,SHERIDAN,Mark Sheridan Math & Science Academy,ES,ISP
 610081,TEACHER,Jacqueline  Brown,0,SHERIDAN,Mark Sheridan Math & Science Academy,ES,ISP
 610081,TEACHER,Jacqueline R Ravnic,0,SHERIDAN,Mark Sheridan Math & Science Academy,ES,ISP
+610173,COMMUNITY,Trina  Perry,0,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
+610173,NONTCHSTAFF,Rosalind A McGehee,0,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
+610173,PARENT,Mario  Perry,0,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
+610173,PARENT,Mazie  Daniels,0,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
+610173,TEACHER,Danielle L Beal,0,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
+610173,TEACHER,Markita L Anderson,0,SHERWOOD,Jesse Sherwood Elementary School,ES,ISP
 610174,COMMUNITY,Ana M Vigil,0,SHIELDS,James Shields Elementary School,ES,Network 8
 610174,NONTCHSTAFF,Diana M Gonzalez,0,SHIELDS,James Shields Elementary School,ES,Network 8
 610174,PARENT,Anabel  Lamas,0,SHIELDS,James Shields Elementary School,ES,Network 8
@@ -2430,9 +2461,16 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609739,COMMUNITY,Peter J Chico,0,WASHINGTON HS,George Washington High School,HS,Network 17
 609739,PARENT,Roman  DeLion,0,WASHINGTON HS,George Washington High School,HS,Network 17
 609739,TEACHER,Donald Z Davis,0,WASHINGTON HS,George Washington High School,HS,Network 17
+610220,COMMUNITY,Elliot  Benitez,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
 610220,COMMUNITY,Kathryn N Carey,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
+610220,COMMUNITY,Kirsten  Quinn,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
 610220,NONTCHSTAFF,Mark  Williams,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
+610220,PARENT,Cara  Angelotta,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
+610220,PARENT,Daniel A Morris,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
 610220,PARENT,Elizabeth  Chandran,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
+610220,PARENT,Jason M Rieger,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
+610220,PARENT,Nathan A Hunter,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
+610220,PARENT,Stuart R Lange,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
 610220,TEACHER,Karen J Soto,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
 610220,TEACHER,Margaret F Ballasch,0,WATERS,Thomas J Waters Elementary School,ES,Network 2
 610221,COMMUNITY,Shirley A McElroy,0,WEBSTER,Daniel Webster Elementary School,ES,Network 5
