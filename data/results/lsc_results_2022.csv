@@ -32,7 +32,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609774,PARENT,Thomas G Kotarac,0,ALCOTT ES,Louisa May Alcott College Preparatory ES,ES,Network 4
 609774,PARENT,Tim A Hudson,0,ALCOTT ES,Louisa May Alcott College Preparatory ES,ES,Network 4
 609774,TEACHER,Allison R Blackburn,0,ALCOTT ES,Louisa May Alcott College Preparatory ES,ES,Network 4
-609774,TEACHER,Erin E Grohman,0,ALCOTT ES,Louisa May Alcott College Preparatory ES,ES,Network 4
 609774,TEACHER,Jacqueline M Schiralli,0,ALCOTT ES,Louisa May Alcott College Preparatory ES,ES,Network 4
 609774,TEACHER,Lauren A Riner Venuti,0,ALCOTT ES,Louisa May Alcott College Preparatory ES,ES,Network 4
 610524,COMMUNITY,Elizabeth L Thompson,0,ALCOTT HS,Louisa May Alcott College Preparatory HS,HS,Network 15
@@ -140,6 +139,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609786,TEACHER,Jordan  Body,0,AVALON PARK,Avalon Park Elementary School,ES,ISP
 609786,TEACHER,Vergenia L Shegog,0,AVALON PARK,Avalon Park Elementary School,ES,ISP
 610325,COMMUNITY,Justin B Newman,0,AVONDALE-LOGANDALE,Avondale-Logandale Elementary School,ES,Network 4
+610325,COMMUNITY,Martha  Velez,0,AVONDALE-LOGANDALE,Avondale-Logandale Elementary School,ES,Network 4
 610325,COMMUNITY,Michael  Saelens,0,AVONDALE-LOGANDALE,Avondale-Logandale Elementary School,ES,Network 4
 610325,NONTCHSTAFF,Brian  Mendoza,0,AVONDALE-LOGANDALE,Avondale-Logandale Elementary School,ES,Network 4
 610325,PARENT,Susana  Arias,0,AVONDALE-LOGANDALE,Avondale-Logandale Elementary School,ES,Network 4
@@ -545,10 +545,13 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609818,PARENT,Juana  Orozco,0,BURBANK,Luther Burbank Elementary School,ES,Network 3
 609818,TEACHER,Alicia  Corona,0,BURBANK,Luther Burbank Elementary School,ES,Network 3
 609818,TEACHER,Arelis  Martinez,0,BURBANK,Luther Burbank Elementary School,ES,Network 3
+609819,COMMUNITY,Candace  Williams,0,BURKE,Edmond Burke Elementary School,ES,Network 9
+609819,NONTCHSTAFF,Ebony C Loury,0,BURKE,Edmond Burke Elementary School,ES,Network 9
+609819,TEACHER,Evett  Childs,0,BURKE,Edmond Burke Elementary School,ES,Network 9
+609819,TEACHER,Nedra  Pulliam,0,BURKE,Edmond Burke Elementary School,ES,Network 9
 609820,COMMUNITY,Robert  Blitstein,0,BURLEY,Augustus H Burley Elementary School,ES,ISP
 609820,COMMUNITY,Robert J Moon III,0,BURLEY,Augustus H Burley Elementary School,ES,ISP
 609820,PARENT,Elliot M Ransom,0,BURLEY,Augustus H Burley Elementary School,ES,ISP
-609820,PARENT,Erin S Cohen,0,BURLEY,Augustus H Burley Elementary School,ES,ISP
 609820,PARENT,Jessica N Macaluso,0,BURLEY,Augustus H Burley Elementary School,ES,ISP
 609820,PARENT,Michael P Valitchka,0,BURLEY,Augustus H Burley Elementary School,ES,ISP
 609820,PARENT,Nicholas C Stamas,0,BURLEY,Augustus H Burley Elementary School,ES,ISP
@@ -1238,6 +1241,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609885,PARENT,Jennifer  Toliver,0,DEWEY,Dewey Elementary Academy of Fine Arts,ES,Network 8
 609885,PARENT,Keith  Crockrom,0,DEWEY,Dewey Elementary Academy of Fine Arts,ES,Network 8
 609885,PARENT,Ladisa  Stamps,0,DEWEY,Dewey Elementary Academy of Fine Arts,ES,Network 8
+609885,PARENT,Montinease  Clark,0,DEWEY,Dewey Elementary Academy of Fine Arts,ES,Network 8
 609885,TEACHER,Jasmyne T Portee,0,DEWEY,Dewey Elementary Academy of Fine Arts,ES,Network 8
 609885,TEACHER,Leah C Guenther,0,DEWEY,Dewey Elementary Academy of Fine Arts,ES,Network 8
 609885,TEACHER,Lindsay  Wright,0,DEWEY,Dewey Elementary Academy of Fine Arts,ES,Network 8
@@ -1592,6 +1596,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610055,PARENT,Lakendra M Cannon,0,FARADAY,Michael Faraday Elementary School,ES,Network 5
 610055,TEACHER,Anthony J Maloni,0,FARADAY,Michael Faraday Elementary School,ES,Network 5
 610055,TEACHER,Sheryl L San Juaquin,0,FARADAY,Michael Faraday Elementary School,ES,Network 5
+609912,NONTCHSTAFF,Kaylin R Quinn-Ulmer,0,FARNSWORTH,James B Farnsworth Elementary School,ES,Network 1
 609912,PARENT,Alma  Nikezic,0,FARNSWORTH,James B Farnsworth Elementary School,ES,Network 1
 609912,PARENT,Philip  Calato,0,FARNSWORTH,James B Farnsworth Elementary School,ES,Network 1
 609912,PARENT,Shawn  Fletcher,0,FARNSWORTH,James B Farnsworth Elementary School,ES,Network 1
@@ -2673,9 +2678,9 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610033,PARENT,Agnes H Fong,0,LASALLE,LaSalle Elementary Language Academy,ES,Network 4
 610033,PARENT,Angela C Mota,0,LASALLE,LaSalle Elementary Language Academy,ES,Network 4
 610033,PARENT,Ashley E Hutti,0,LASALLE,LaSalle Elementary Language Academy,ES,Network 4
-610033,PARENT,Bella  Wallin,0,LASALLE,LaSalle Elementary Language Academy,ES,Network 4
 610033,PARENT,Katherine  O'Brien,0,LASALLE,LaSalle Elementary Language Academy,ES,Network 4
 610033,PARENT,Lourdes  Neris,0,LASALLE,LaSalle Elementary Language Academy,ES,Network 4
+610033,PARENT,Maida  Wallin,0,LASALLE,LaSalle Elementary Language Academy,ES,Network 4
 610033,PARENT,Rachael E Russ,0,LASALLE,LaSalle Elementary Language Academy,ES,Network 4
 610033,PARENT,Rosalynn  Walker,0,LASALLE,LaSalle Elementary Language Academy,ES,Network 4
 610033,PARENT,Uriah  Muhammad,0,LASALLE,LaSalle Elementary Language Academy,ES,Network 4
@@ -2890,11 +2895,12 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610046,TEACHER,Lauren  Theall,0,LYON,Mary Lyon Elementary School,ES,Network 3
 610046,TEACHER,Nicole  Naranjo,0,LYON,Mary Lyon Elementary School,ES,Network 3
 610215,COMMUNITY,Ana G Oria,0,MADERO,Francisco I Madero Middle School,MS,Network 7
-610215,COMMUNITY,Julia M Barahona,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,COMMUNITY,Maria de Jesus  Cristobal,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,NONTCHSTAFF,Juan  Munoz,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,PARENT,Elsa  Vargas,0,MADERO,Francisco I Madero Middle School,MS,Network 7
+610215,PARENT,Emilia  Martinez,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,PARENT,Esmeralda  Arroyo,0,MADERO,Francisco I Madero Middle School,MS,Network 7
+610215,PARENT,Julia M Barahona,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,PARENT,Maria  Martinez,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,PARENT,Marilinet  Morales,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,TEACHER,Mary  Dybas,0,MADERO,Francisco I Madero Middle School,MS,Network 7
@@ -3025,9 +3031,9 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610062,COMMUNITY,Richard A Ranallo,0,MCCLELLAN,George B McClellan Elementary School,ES,Network 6
 610062,NONTCHSTAFF,Sesi O Martin,0,MCCLELLAN,George B McClellan Elementary School,ES,Network 6
 610062,PARENT,Bertha L Alderete,0,MCCLELLAN,George B McClellan Elementary School,ES,Network 6
+610062,PARENT,Claudia  Amaro,0,MCCLELLAN,George B McClellan Elementary School,ES,Network 6
 610062,PARENT,Melissa  Parks,0,MCCLELLAN,George B McClellan Elementary School,ES,Network 6
 610062,PARENT,Veronique  Nogueria,0,MCCLELLAN,George B McClellan Elementary School,ES,Network 6
-610062,PRINCIPAL,Claudia  Amaro,0,MCCLELLAN,George B McClellan Elementary School,ES,Network 6
 610062,TEACHER,Kenyada K Burks,0,MCCLELLAN,George B McClellan Elementary School,ES,Network 6
 610062,TEACHER,Michael  Khoshaba,0,MCCLELLAN,George B McClellan Elementary School,ES,Network 6
 610063,COMMUNITY,Ana G Oria,0,MCCORMICK,Cyrus H McCormick Elementary School,ES,Network 7
@@ -3155,6 +3161,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610276,PARENT,Sharon P Fisher-Johnson,0,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
 610276,PARENT,Tresa Brandi A Razaaq,0,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
 610276,PARENT,Yolanda N Redman,0,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
+610276,TEACHER,Lawrence  Balark,0,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
 610276,TEACHER,Vondietra  Butler,0,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
 610074,COMMUNITY,Lillian M Osborne,0,MONROE,James Monroe Elementary School,ES,Network 4
 610074,COMMUNITY,Nicholas M Hromalik,0,MONROE,James Monroe Elementary School,ES,Network 4
@@ -3886,6 +3893,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609941,PARENT,Alicia  Adams-Cummings,0,RANDOLPH,Asa Philip Randolph Elementary School,ES,Network 11
 609941,PARENT,Chrishanda  Anderson,0,RANDOLPH,Asa Philip Randolph Elementary School,ES,Network 11
 609941,PARENT,Emmanuel  Tyler,0,RANDOLPH,Asa Philip Randolph Elementary School,ES,Network 11
+609941,PARENT,Erick  Serna,0,RANDOLPH,Asa Philip Randolph Elementary School,ES,Network 11
 609941,PARENT,Sylvia  Pryor,0,RANDOLPH,Asa Philip Randolph Elementary School,ES,Network 11
 609941,TEACHER,Joanne R Brown-Hicks,0,RANDOLPH,Asa Philip Randolph Elementary School,ES,Network 11
 609941,TEACHER,Kimberly Y Gibson,0,RANDOLPH,Asa Philip Randolph Elementary School,ES,Network 11
@@ -4434,6 +4442,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610339,PARENT,Shefenee A Bent,0,STAGG,Amos Alonzo Stagg Elementary School,ES,Network 11
 610339,PARENT,Sheila J Lowery,0,STAGG,Amos Alonzo Stagg Elementary School,ES,Network 11
 610339,PARENT,Tanyshia R Clark,0,STAGG,Amos Alonzo Stagg Elementary School,ES,Network 11
+610339,TEACHER,Alonzo D Myers,0,STAGG,Amos Alonzo Stagg Elementary School,ES,Network 11
 610339,TEACHER,Jazell M Smith,0,STAGG,Amos Alonzo Stagg Elementary School,ES,Network 11
 610339,TEACHER,Jerilynn E Johnson,0,STAGG,Amos Alonzo Stagg Elementary School,ES,Network 11
 610339,TEACHER,Mariah R Newsome,0,STAGG,Amos Alonzo Stagg Elementary School,ES,Network 11
@@ -4579,6 +4588,9 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610279,PARENT,Sharnetta L Lovelady,0,TANNER,Henry O Tanner Elementary School,ES,Network 12
 610279,TEACHER,Launder F Carter,0,TANNER,Henry O Tanner Elementary School,ES,Network 12
 610279,TEACHER,Tanneshia  Wilson- Wearring,0,TANNER,Henry O Tanner Elementary School,ES,Network 12
+610396,ED. EXPERT,Kelly  Chaney,0,TARKINGTON,Tarkington School of Excellence ES,ES,AUSL
+610396,TEACHER,Adriana  Lopez,0,TARKINGTON,Tarkington School of Excellence ES,ES,AUSL
+610396,TEACHER,Vanesa  Pachon Romero,0,TARKINGTON,Tarkington School of Excellence ES,ES,AUSL
 610198,COMMUNITY,Joann M Podkol,0,TAYLOR,Douglas Taylor Elementary School,ES,Network 13
 610198,NONTCHSTAFF,Anna  Cuevas,0,TAYLOR,Douglas Taylor Elementary School,ES,Network 13
 610198,PARENT,Jessica  Hernandez,0,TAYLOR,Douglas Taylor Elementary School,ES,Network 13
@@ -4629,6 +4641,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610202,PARENT,Patricia A Sample,0,TILTON,George W Tilton Elementary School,ES,Network 5
 610202,PARENT,Robbeat C Tolliver,0,TILTON,George W Tilton Elementary School,ES,Network 5
 610202,PARENT,Thalia  Ray,0,TILTON,George W Tilton Elementary School,ES,Network 5
+610202,PARENT,Tiffany  Jasper,0,TILTON,George W Tilton Elementary School,ES,Network 5
 610202,TEACHER,Joyce H Dockery,0,TILTON,George W Tilton Elementary School,ES,Network 5
 610202,TEACHER,Lavita J Buckner,0,TILTON,George W Tilton Elementary School,ES,Network 5
 610203,COMMUNITY,Eduardo M Pacheco,0,TONTI,Enrico Tonti Elementary School,ES,Network 8
@@ -5044,6 +5057,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610234,NONTCHSTAFF,Orlando  Ortiz,0,YATES,Richard Yates Elementary School,ES,Network 5
 610234,PARENT,Jaleen A Starling,0,YATES,Richard Yates Elementary School,ES,Network 5
 610234,PARENT,Rashonda L Phillips,0,YATES,Richard Yates Elementary School,ES,Network 5
+610234,PARENT,Robert  Boyd,0,YATES,Richard Yates Elementary School,ES,Network 5
 610234,PARENT,Yazmin  Torres,0,YATES,Richard Yates Elementary School,ES,Network 5
 610234,TEACHER,Brenda L Tate-Fearn,0,YATES,Richard Yates Elementary School,ES,Network 5
 610234,TEACHER,Ingrid C Moorehouse,0,YATES,Richard Yates Elementary School,ES,Network 5
