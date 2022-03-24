@@ -156,11 +156,11 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610544,TEACHER,Nita  Sengupta,0,AZUELA,Mariano Azuela Elementary School,ES,ISP
 610563,COMMUNITY,Arturo  Ballesteros,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
 610563,COMMUNITY,Consuelo  Martinez de Ferrer,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
-610563,COMMUNITY,Fernandez E Maria,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
+610563,COMMUNITY,Maria Esther  Fernandez,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
 610563,NONTCHSTAFF,Denise M Romo,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
 610563,PARENT,Adelina  Rodriguez,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
 610563,PARENT,Lorena  Lopez,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
-610563,PARENT,Luz M Flores,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
+610563,PARENT,Luz Maria  Flores,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
 610563,PARENT,Marisol  Medina,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
 610563,TEACHER,Irma V Sandoval Vizcaino,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
 610563,TEACHER,Juan Carlos  Salinas,0,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,ISP
@@ -279,13 +279,13 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609799,TEACHER,Peter S Barash,0,BELL,Alexander Graham Bell Elementary School,ES,Network 4
 609922,COMMUNITY,Jose R Figueroa,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
 609922,COMMUNITY,Jose R Quiles,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
-609922,COMMUNITY,Yeni  Pinede,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
+609922,COMMUNITY,Yeni  Pinedo,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
 609922,NONTCHSTAFF,David  Arana-Rossell,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
 609922,PARENT,Esmeralda  Castillo,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
 609922,PARENT,Ingrit M Luna,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
 609922,PARENT,Maria  Ortiz,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
 609922,PARENT,Marisela  Aguado,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
-609922,PARENT,Norma  Lopez,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
+609922,PARENT,Norma V Lopez,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
 609922,PARENT,Serafin  Patino,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
 609922,TEACHER,Mireya  Muhlberger,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
 609922,TEACHER,Saskia T Benitez,0,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,Network 3
@@ -417,7 +417,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609810,PARENT,Brian D Johnson,0,BRIDGE,Norman A Bridge Elementary School,ES,Network 1
 609810,PARENT,Christine  Rodriguez,0,BRIDGE,Norman A Bridge Elementary School,ES,Network 1
 609810,PARENT,Jeanette  Agustin,0,BRIDGE,Norman A Bridge Elementary School,ES,Network 1
-609810,PARENT,Joseph R Kussman,0,BRIDGE,Norman A Bridge Elementary School,ES,Network 1
+609810,PARENT,Joseph R Kussmann,0,BRIDGE,Norman A Bridge Elementary School,ES,Network 1
 609810,PARENT,Michael A Spataro,0,BRIDGE,Norman A Bridge Elementary School,ES,Network 1
 609810,PARENT,Rebecca L Sanchez,0,BRIDGE,Norman A Bridge Elementary School,ES,Network 1
 609810,TEACHER,Sean M Clancy,0,BRIDGE,Norman A Bridge Elementary School,ES,Network 1
@@ -565,7 +565,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609821,COMMUNITY,Otis P Armstrong,0,BURNHAM,Burnham Elementary Inclusive Academy,ES,Network 13
 609821,COMMUNITY,Randel N Smith,0,BURNHAM,Burnham Elementary Inclusive Academy,ES,Network 13
 609821,NONTCHSTAFF,Justin A Dortch,0,BURNHAM,Burnham Elementary Inclusive Academy,ES,Network 13
-609821,NONTCHSTAFF,Laticia  Flanagan-Thomas,0,BURNHAM,Burnham Elementary Inclusive Academy,ES,Network 13
 609821,NONTCHSTAFF,Shamar A Turner,0,BURNHAM,Burnham Elementary Inclusive Academy,ES,Network 13
 609821,PARENT,Aneesah  Muhammad-Weatherall,0,BURNHAM,Burnham Elementary Inclusive Academy,ES,Network 13
 609821,PARENT,Dominique T Hawkins,0,BURNHAM,Burnham Elementary Inclusive Academy,ES,Network 13
@@ -1058,6 +1057,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609761,PARENT,Shelly  Beard,0,CORLISS HS,George H Corliss High School,HS,Network 17
 609761,PARENT,Yvonne E Newell,0,CORLISS HS,George H Corliss High School,HS,Network 17
 609761,TEACHER,David J Holland,0,CORLISS HS,George H Corliss High School,HS,Network 17
+609761,TEACHER,Xochitl M Infante,0,CORLISS HS,George H Corliss High School,HS,Network 17
 610355,COMMUNITY,Lindsay A Smith,0,COURTENAY,Mary E Courtenay Elementary Language Arts Center,ES,Network 2
 610355,COMMUNITY,Molly A Robinson,0,COURTENAY,Mary E Courtenay Elementary Language Arts Center,ES,Network 2
 610355,COMMUNITY,William R Barrett,0,COURTENAY,Mary E Courtenay Elementary Language Arts Center,ES,Network 2
@@ -1192,7 +1192,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610313,PARENT,Lidia L Medina,0,DE DIEGO,Jose De Diego Elementary Community Academy,ES,Network 5
 610313,PARENT,Sabrina B Pretsch,0,DE DIEGO,Jose De Diego Elementary Community Academy,ES,Network 5
 610313,PARENT,Saleena  Maldonado,0,DE DIEGO,Jose De Diego Elementary Community Academy,ES,Network 5
-610313,TEACHER,John D Navarro,0,DE DIEGO,Jose De Diego Elementary Community Academy,ES,Network 5
 610313,TEACHER,Lyndsay B Whitfield,0,DE DIEGO,Jose De Diego Elementary Community Academy,ES,Network 5
 610313,TEACHER,Pamela A Colwell,0,DE DIEGO,Jose De Diego Elementary Community Academy,ES,Network 5
 609880,COMMUNITY,Margo M Regalado,0,DECATUR,Stephen Decatur Classical Elementary School,ES,Network 2
@@ -1214,9 +1213,11 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609880,TEACHER,John P Murray,0,DECATUR,Stephen Decatur Classical Elementary School,ES,Network 2
 609880,TEACHER,Katherine G Askounis,0,DECATUR,Stephen Decatur Classical Elementary School,ES,Network 2
 609883,COMMUNITY,Eric  Knowles,0,DENEEN,Charles S Deneen Elementary School,ES,Network 12
+609883,COMMUNITY,Phyliss  Hayes,0,DENEEN,Charles S Deneen Elementary School,ES,Network 12
 609883,NONTCHSTAFF,Kristie Y Curtis,0,DENEEN,Charles S Deneen Elementary School,ES,Network 12
 609883,NONTCHSTAFF,Regina N Hardrick,0,DENEEN,Charles S Deneen Elementary School,ES,Network 12
 609883,PARENT,Ebony S Stokes,0,DENEEN,Charles S Deneen Elementary School,ES,Network 12
+609883,PARENT,Ericka V Sanders,0,DENEEN,Charles S Deneen Elementary School,ES,Network 12
 609883,PARENT,Joanna  Virges,0,DENEEN,Charles S Deneen Elementary School,ES,Network 12
 609883,PARENT,Kienna  Virges,0,DENEEN,Charles S Deneen Elementary School,ES,Network 12
 609883,PARENT,Nancy  Sims,0,DENEEN,Charles S Deneen Elementary School,ES,Network 12
@@ -1630,13 +1631,16 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609704,TEACHER,Daniel  Stekala,0,FARRAGUT HS,David G Farragut Career Academy High School,HS,Network 16
 609704,TEACHER,Erika E Brizuela,0,FARRAGUT HS,David G Farragut Career Academy High School,HS,Network 16
 609704,TEACHER,Linda L Morales,0,FARRAGUT HS,David G Farragut Career Academy High School,HS,Network 16
+609705,COMMUNITY,Claretha  Morrell,0,FENGER HS,Christian Fenger Academy High School,HS,Network 17
+609705,NONTCHSTAFF,Stenisha S Harris,0,FENGER HS,Christian Fenger Academy High School,HS,Network 17
+609705,TEACHER,Sprinng M Stadeker,0,FENGER HS,Christian Fenger Academy High School,HS,Network 17
+609705,TEACHER,Tamika L Bell,0,FENGER HS,Christian Fenger Academy High School,HS,Network 17
 609917,NONTCHSTAFF,Anthony C Thomas,0,FERNWOOD,Fernwood Elementary School,ES,Network 13
 609917,PARENT,Christine  Betts,0,FERNWOOD,Fernwood Elementary School,ES,Network 13
 609917,PARENT,Delauria  Richardson,0,FERNWOOD,Fernwood Elementary School,ES,Network 13
 609917,PARENT,Ganeli  McDonald,0,FERNWOOD,Fernwood Elementary School,ES,Network 13
 609917,PARENT,Michael  Mason-Johnson,0,FERNWOOD,Fernwood Elementary School,ES,Network 13
 609917,PARENT,Renita  Sanders,0,FERNWOOD,Fernwood Elementary School,ES,Network 13
-609917,PRINCIPAL,Robert  Towner,0,FERNWOOD,Fernwood Elementary School,ES,Network 13
 609917,TEACHER,James J Mason,0,FERNWOOD,Fernwood Elementary School,ES,Network 13
 609918,COMMUNITY,Serena  Walker,0,FIELD,Eugene Field Elementary School,ES,Network 2
 609918,NONTCHSTAFF,Antonio  Garcia,0,FIELD,Eugene Field Elementary School,ES,Network 2
@@ -1738,6 +1742,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609928,TEACHER,Marley A Olivera,0,FULLER,Melville W Fuller Elementary School,ES,Network 9
 609929,NONTCHSTAFF,Jennifer  Davis,0,FULTON,Robert Fulton Elementary School,ES,Network 8
 609929,PARENT,Engletina  Gonzalez,0,FULTON,Robert Fulton Elementary School,ES,Network 8
+609929,PARENT,LaRhonda  Reed,0,FULTON,Robert Fulton Elementary School,ES,Network 8
 609929,PARENT,Linda  Bush,0,FULTON,Robert Fulton Elementary School,ES,Network 8
 609929,TEACHER,Arturo  Quiroz,0,FULTON,Robert Fulton Elementary School,ES,Network 8
 609929,TEACHER,Michelle  Ingram-Holmon,0,FULTON,Robert Fulton Elementary School,ES,Network 8
@@ -1824,6 +1829,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609939,COMMUNITY,Gloria B Pittman,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609939,NONTCHSTAFF,Valerie R Shannon,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609939,PARENT,Ashley R Walker,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
+609939,PARENT,Bertha T Flint,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609939,TEACHER,Gwendolyn K Roby-Kindred,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609939,TEACHER,Linda F Cunningham-Brothers,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609942,COMMUNITY,Daisy  Navar,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
@@ -2935,7 +2941,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610215,PARENT,Esmeralda  Arroyo,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,PARENT,Julia M Barahona,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,PARENT,Maria  Martinez,0,MADERO,Francisco I Madero Middle School,MS,Network 7
-610215,PARENT,Marilinet  Morales,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,TEACHER,Mary  Dybas,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610215,TEACHER,Miguel  Fragoso,0,MADERO,Francisco I Madero Middle School,MS,Network 7
 610047,COMMUNITY,Albert  Kelly,0,MADISON,James Madison Elementary School,ES,Network 12
@@ -3080,7 +3085,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610063,TEACHER,Raquel  Ponce de Leon,0,MCCORMICK,Cyrus H McCormick Elementary School,ES,Network 7
 610063,TEACHER,Trisha L Chmielinski,0,MCCORMICK,Cyrus H McCormick Elementary School,ES,Network 7
 610269,COMMUNITY,Brandon N Lee,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
-610269,COMMUNITY,Tracy D Adams,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
 610269,COMMUNITY,Wilma L Pittman,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
 610269,NONTCHSTAFF,Venetia  Lappas,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
 610269,PARENT,Davainya S Thompson,0,MCCUTCHEON,John T McCutcheon Elementary School,ES,Network 2
@@ -3415,12 +3419,9 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609961,TEACHER,Taisha  Manning,0,NINOS HEROES,Ninos Heroes Elementary Academic Center,ES,Network 12
 610097,COMMUNITY,Erika  Gomez,0,NIXON,William P Nixon Elementary School,ES,Network 4
 610097,NONTCHSTAFF,Susana A Cortez,0,NIXON,William P Nixon Elementary School,ES,Network 4
-610097,PARENT,Aracely S Flores-Paz,0,NIXON,William P Nixon Elementary School,ES,Network 4
 610097,PARENT,Briceyra  Zermeno,0,NIXON,William P Nixon Elementary School,ES,Network 4
-610097,PARENT,Cynthia P Mendez,0,NIXON,William P Nixon Elementary School,ES,Network 4
 610097,PARENT,Elia  Cortez,0,NIXON,William P Nixon Elementary School,ES,Network 4
 610097,PARENT,Lorena  Gonzalez,0,NIXON,William P Nixon Elementary School,ES,Network 4
-610097,PARENT,Omayra  Laureano,0,NIXON,William P Nixon Elementary School,ES,Network 4
 610097,TEACHER,Nancy  Berlanga-Nunez,0,NIXON,William P Nixon Elementary School,ES,Network 4
 610097,TEACHER,Rosenda G Huezo,0,NIXON,William P Nixon Elementary School,ES,Network 4
 610098,COMMUNITY,Gregoria  Marchan,0,NOBEL,Alfred Nobel Elementary School,ES,ISP
@@ -3669,7 +3670,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609680,COMMUNITY,Benjamin M Gould,0,PAYTON HS,Walter Payton College Preparatory High School,HS,Network 15
 609680,COMMUNITY,Mary B Young,0,PAYTON HS,Walter Payton College Preparatory High School,HS,Network 15
 609680,NONTCHSTAFF,Judith V Watkins,0,PAYTON HS,Walter Payton College Preparatory High School,HS,Network 15
-609680,PARENT,David S Schaffer,0,PAYTON HS,Walter Payton College Preparatory High School,HS,Network 15
 609680,PARENT,Elham S DeSanto,0,PAYTON HS,Walter Payton College Preparatory High School,HS,Network 15
 609680,PARENT,Julie A Rothschild,0,PAYTON HS,Walter Payton College Preparatory High School,HS,Network 15
 609680,PARENT,Kamalkeet P Murthy,0,PAYTON HS,Walter Payton College Preparatory High School,HS,Network 15
@@ -3691,14 +3691,12 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610120,TEACHER,Robert G Long,0,PECK,Ferdinand Peck Elementary School,ES,ISP
 610120,TEACHER,Tanya J Cervantes,0,PECK,Ferdinand Peck Elementary School,ES,ISP
 610122,COMMUNITY,Byron  Adams,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
-610122,COMMUNITY,Sean P Sullivan,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
 610122,COMMUNITY,Svetlana  Binshtok,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
 610122,NONTCHSTAFF,Adolfo E Ramirez,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
 610122,PARENT,Amon M Kouame,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
 610122,PARENT,Ashley A Heins,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
 610122,PARENT,Kathleen T Hayes,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
 610122,PARENT,Keith H Bjorklund,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
-610122,PARENT,Kendra N Johnson,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
 610122,PARENT,Lindsey T Moon,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
 610122,PARENT,Nicole M Granacki,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
 610122,PARENT,Rakhee  Dodia,0,PEIRCE,Helen Peirce International Studies ES,ES,ISP
@@ -4634,6 +4632,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610279,PARENT,Sharnetta L Lovelady,0,TANNER,Henry O Tanner Elementary School,ES,Network 12
 610279,TEACHER,Launder F Carter,0,TANNER,Henry O Tanner Elementary School,ES,Network 12
 610279,TEACHER,Tanneshia  Wilson- Wearring,0,TANNER,Henry O Tanner Elementary School,ES,Network 12
+610396,COMMUNITY,Victoria  Reyes,0,TARKINGTON,Tarkington School of Excellence ES,ES,AUSL
 610396,ED. EXPERT,Kelly  Chaney,0,TARKINGTON,Tarkington School of Excellence ES,ES,AUSL
 610396,TEACHER,Adriana  Lopez,0,TARKINGTON,Tarkington School of Excellence ES,ES,AUSL
 610396,TEACHER,Vanesa  Pachon Romero,0,TARKINGTON,Tarkington School of Excellence ES,ES,AUSL
