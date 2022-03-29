@@ -608,14 +608,14 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609829,PARENT,Veronica  Rocha-Bucio,0,BURROUGHS,John C Burroughs Elementary School,ES,Network 8
 609829,TEACHER,Aracely  Gutierrez,0,BURROUGHS,John C Burroughs Elementary School,ES,Network 8
 609829,TEACHER,Kathleen J Lewandowski,0,BURROUGHS,John C Burroughs Elementary School,ES,Network 8
-609832,COMMUNITY,Albert C Cacciottolo,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
+609832,COMMUNITY,Al C Cacciottolo,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
 609832,COMMUNITY,Elizabeth J Connors,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
 609832,COMMUNITY,Joseph  Salas,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
 609832,NONTCHSTAFF,Elsa  Gomez,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
-609832,PARENT,Dago  Fernandez,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
 609832,PARENT,Daniel  Leal,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
 609832,PARENT,Desiree  Alonzo,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
 609832,PARENT,Esperanza  Bedoy,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
+609832,PARENT,Fernandez  Dago,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
 609832,PARENT,Mark  Sullivan,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
 609832,PARENT,Reyes  Sanjuanero,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
 609832,PARENT,Sarah  Sachen,0,BYRNE,Michael M Byrne Elementary School,ES,Network 10
@@ -685,7 +685,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609837,PARENT,Zaid S BeyMuhammed,0,CARNEGIE,Andrew Carnegie Elementary School,ES,Network 9
 609837,TEACHER,Brian M Grauer,0,CARNEGIE,Andrew Carnegie Elementary School,ES,Network 9
 609837,TEACHER,Gina V Blanchard,0,CARNEGIE,Andrew Carnegie Elementary School,ES,Network 9
-609837,TEACHER,Henrietta B Johnson,0,CARNEGIE,Andrew Carnegie Elementary School,ES,Network 9
 609837,TEACHER,Lisa D Coleman,0,CARNEGIE,Andrew Carnegie Elementary School,ES,Network 9
 609839,NONTCHSTAFF,Dana M Murdock,0,CARROLL,Carroll-Rosenwald Specialty Elementary School,ES,Network 10
 609839,TEACHER,Fabienne K Anderson-Johnson,0,CARROLL,Carroll-Rosenwald Specialty Elementary School,ES,Network 10
@@ -3263,6 +3262,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610257,TEACHER,DeJernet M Farder,0,MORTON,Morton School of Excellence,ES,AUSL
 610257,TEACHER,Kathleen  Lance,0,MORTON,Morton School of Excellence,ES,AUSL
 610257,TEACHER,Kristen M Campbell,0,MORTON,Morton School of Excellence,ES,AUSL
+610082,COMMUNITY,Mary C Dixon,0,MOUNT GREENWOOD,Mount Greenwood Elementary School,ES,ISP
 610082,COMMUNITY,Thomas A Haran,0,MOUNT GREENWOOD,Mount Greenwood Elementary School,ES,ISP
 610082,NONTCHSTAFF,Gabrielle G Gribble,0,MOUNT GREENWOOD,Mount Greenwood Elementary School,ES,ISP
 610082,PARENT,Erica  Lieschke,0,MOUNT GREENWOOD,Mount Greenwood Elementary School,ES,ISP
@@ -4561,7 +4561,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610405,PARENT,Veena  Villilam,0,SUDER,Suder Montessori Magnet ES,ES,Network 6
 610405,TEACHER,Melissa A Vozar,0,SUDER,Suder Montessori Magnet ES,ES,Network 6
 609733,COMMUNITY,Jamie A Gump,0,SULLIVAN HS,Roger C Sullivan High School,HS,Network 14
-609733,NONTCHSTAFF,Andrea D Graham,0,SULLIVAN HS,Roger C Sullivan High School,HS,Network 14
 609733,NONTCHSTAFF,Belen  Arreola,0,SULLIVAN HS,Roger C Sullivan High School,HS,Network 14
 609733,PARENT,Brenda L Hardge,0,SULLIVAN HS,Roger C Sullivan High School,HS,Network 14
 609733,PARENT,Servina A Gordon,0,SULLIVAN HS,Roger C Sullivan High School,HS,Network 14
@@ -4974,7 +4973,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610223,PARENT,Lanae L Smith,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
 610223,PARENT,Latoya  Traylor,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
 610223,PARENT,Precious D Keith,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
-610223,PARENT,Sandra  Motton,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
 610223,PARENT,Tenisha  Green,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
 610223,PRINCIPAL,Willona  Abner-Adkins,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
 610223,TEACHER,Kimnise D Smith,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
