@@ -129,8 +129,9 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610518,PARENT,Latanya  Jackson,0,AUSTIN CCA HS,Austin College and Career Academy High School,HS,Network 15
 610518,PARENT,Theresa I Pettis,0,AUSTIN CCA HS,Austin College and Career Academy High School,HS,Network 15
 610518,TEACHER,Nathaniel  Satchell,0,AUSTIN CCA HS,Austin College and Career Academy High School,HS,Network 15
-609786,COMMUNITY,Ingrid K Suddoth,0,AVALON PARK,Avalon Park Elementary School,ES,ISP
+609786,COMMUNITY,Patricia E Goodrich,0,AVALON PARK,Avalon Park Elementary School,ES,ISP
 609786,NONTCHSTAFF,Laura M Perkins,0,AVALON PARK,Avalon Park Elementary School,ES,ISP
+609786,PARENT,Ingrid K Suddoth,0,AVALON PARK,Avalon Park Elementary School,ES,ISP
 609786,PARENT,Sarah R Evans,0,AVALON PARK,Avalon Park Elementary School,ES,ISP
 609786,PARENT,Shekenna  Williams,0,AVALON PARK,Avalon Park Elementary School,ES,ISP
 609786,PARENT,Stacey R Reid,0,AVALON PARK,Avalon Park Elementary School,ES,ISP
@@ -673,7 +674,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610024,PARENT,Yolisma A Orozco-Malacara,0,CARDENAS,Lazaro Cardenas Elementary School,ES,ISP
 610024,TEACHER,Denise K Benbrook,0,CARDENAS,Lazaro Cardenas Elementary School,ES,ISP
 610024,TEACHER,Rodolfo J Perez,0,CARDENAS,Lazaro Cardenas Elementary School,ES,ISP
-609837,COMMUNITY,Odell  Cain,0,CARNEGIE,Andrew Carnegie Elementary School,ES,Network 9
 609837,COMMUNITY,Ursula C Wagner,0,CARNEGIE,Andrew Carnegie Elementary School,ES,Network 9
 609837,NONTCHSTAFF,Cassandra  Anglin,0,CARNEGIE,Andrew Carnegie Elementary School,ES,Network 9
 609837,PARENT,Alicia F Gill,0,CARNEGIE,Andrew Carnegie Elementary School,ES,Network 9
@@ -1837,7 +1837,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609939,PARENT,Bertha T Flint,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609939,TEACHER,Gwendolyn K Roby-Kindred,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
 609939,TEACHER,Linda F Cunningham-Brothers,0,GILLESPIE,Frank L Gillespie Elementary School,ES,Network 12
-609942,COMMUNITY,Daisy  Navar,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
 609942,COMMUNITY,Jose L Espejo,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
 609942,COMMUNITY,Lindsay A Semph,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
 609942,NONTCHSTAFF,Carlos E Rios,0,GOETHE,Johann W von Goethe Elementary School,ES,Network 4
@@ -2332,7 +2331,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609713,COMMUNITY,Naadia J Owens,0,HYDE PARK HS,Hyde Park Academy High School,HS,Network 17
 609713,COMMUNITY,Patricia  Sanchez,0,HYDE PARK HS,Hyde Park Academy High School,HS,Network 17
 609713,COMMUNITY,Sheila  Scott,0,HYDE PARK HS,Hyde Park Academy High School,HS,Network 17
-609713,COMMUNITY,Stewart R Romeo,0,HYDE PARK HS,Hyde Park Academy High School,HS,Network 17
 609713,NONTCHSTAFF,David  Hardy,0,HYDE PARK HS,Hyde Park Academy High School,HS,Network 17
 609713,NONTCHSTAFF,Shakeva  Ransom,0,HYDE PARK HS,Hyde Park Academy High School,HS,Network 17
 609713,PARENT,Bennita N Edwards,0,HYDE PARK HS,Hyde Park Academy High School,HS,Network 17
@@ -2842,8 +2840,8 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609738,TEACHER,Eric  Lezcano,0,LINCOLN PARK HS,Lincoln Park High School,HS,Network 14
 609738,TEACHER,Sandra C Koehler,0,LINCOLN PARK HS,Lincoln Park High School,HS,Network 14
 610391,COMMUNITY,C.Lynn  White,0,LINDBLOM HS,Robert Lindblom Math & Science Academy HS,HS,Network 16
-610391,PARENT,Aparicio  Catalina,0,LINDBLOM HS,Robert Lindblom Math & Science Academy HS,HS,Network 16
 610391,PARENT,Briana  Morris,0,LINDBLOM HS,Robert Lindblom Math & Science Academy HS,HS,Network 16
+610391,PARENT,Catalina  Aparicio,0,LINDBLOM HS,Robert Lindblom Math & Science Academy HS,HS,Network 16
 610391,PARENT,Marcella  Wheatly,0,LINDBLOM HS,Robert Lindblom Math & Science Academy HS,HS,Network 16
 610391,PARENT,Rosario  Ayala,0,LINDBLOM HS,Robert Lindblom Math & Science Academy HS,HS,Network 16
 610391,PARENT,Sheenita  Robinson,0,LINDBLOM HS,Robert Lindblom Math & Science Academy HS,HS,Network 16
@@ -3191,11 +3189,13 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610171,TEACHER,Carline  Pasquier-Hollimon,0,MIRELES,Arnold Mireles Elementary Academy,ES,Network 12
 610171,TEACHER,Rita M Quiroga,0,MIRELES,Arnold Mireles Elementary Academy,ES,Network 12
 610073,COMMUNITY,Matthew K Kelly,0,MITCHELL,Ellen Mitchell Elementary School,ES,ISP
+610073,NONTCHSTAFF,Helen  Cortecero,0,MITCHELL,Ellen Mitchell Elementary School,ES,ISP
 610073,PARENT,Alexa  Lee Hassan,0,MITCHELL,Ellen Mitchell Elementary School,ES,ISP
 610073,PARENT,Andrea  Crudder,0,MITCHELL,Ellen Mitchell Elementary School,ES,ISP
 610073,PARENT,Helen  Ho-Supanich,0,MITCHELL,Ellen Mitchell Elementary School,ES,ISP
 610073,PARENT,Jamie L Decaria,0,MITCHELL,Ellen Mitchell Elementary School,ES,ISP
 610073,PARENT,Julia  Siegfried,0,MITCHELL,Ellen Mitchell Elementary School,ES,ISP
+610073,PRINCIPAL,Katherine  Solimine-Welsh,0,MITCHELL,Ellen Mitchell Elementary School,ES,ISP
 610073,TEACHER,Becky L Benkiser,0,MITCHELL,Ellen Mitchell Elementary School,ES,ISP
 610276,COMMUNITY,Cathy E Dale,0,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
 610276,COMMUNITY,DeAndre  Allen,0,MOLLISON,Irvin C Mollison Elementary School,ES,Network 9
@@ -5000,16 +5000,17 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610542,PARENT,Osman  Searag,0,WEST RIDGE,West Ridge Elementary School,ES,ISP
 610542,TEACHER,Jennifer R Catron,0,WEST RIDGE,West Ridge Elementary School,ES,ISP
 610542,TEACHER,Ramy E Phillippose,0,WEST RIDGE,West Ridge Elementary School,ES,ISP
-610300,COMMUNITY,Kaymia  Pittman,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
+610300,COMMUNITY,Leo  Evans,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
 610300,COMMUNITY,Michellle  Kemp,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
-610300,COMMUNITY,Nathan  Neely,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
-610300,COMMUNITY,Sarah  Simansky,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
-610300,COMMUNITY,Shatondra  Smith,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
+610300,COMMUNITY,Nathan L Neely,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
+610300,NONTCHSTAFF,Kaymia  Pittman,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
 610300,PARENT,Amber  Williams,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
 610300,PARENT,Kimberly  Burgess,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
-610300,PARENT,Leo  Evans,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
 610300,PARENT,Marylin  King,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
 610300,PARENT,Shemeka  Houston,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
+610300,TEACHER,Sarah E Simanskey,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
+610300,TEACHER,Shatondra N Smith,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
+610300,TEACHER,Tiffany D Watkins,0,WESTCOTT,Oliver S Westcott Elementary School,ES,Network 11
 609693,COMMUNITY,Arthur  Griffin,0,WESTINGHOUSE HS,George Westinghouse College Prep,HS,Network 15
 609693,COMMUNITY,Cornelia  Hailey-Gamble,0,WESTINGHOUSE HS,George Westinghouse College Prep,HS,Network 15
 609693,COMMUNITY,Karla L Beard-Leroy,0,WESTINGHOUSE HS,George Westinghouse College Prep,HS,Network 15
