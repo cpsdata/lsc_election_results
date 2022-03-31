@@ -48,7 +48,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609848,PARENT,Pamela P Hardy,0,ALDRIDGE,Ira F Aldridge Elementary School,ES,Network 13
 609848,TEACHER,LaRita R Varnado-Harris,0,ALDRIDGE,Ira F Aldridge Elementary School,ES,Network 13
 609848,TEACHER,Olivia  Taylor,0,ALDRIDGE,Ira F Aldridge Elementary School,ES,Network 13
-609695,COMMUNITY,Anna  Rubin,0,AMUNDSEN HS,Roald Amundsen High School,HS,ISP
 609695,COMMUNITY,Kathryn G Bushnell,0,AMUNDSEN HS,Roald Amundsen High School,HS,ISP
 609695,COMMUNITY,Robert F Farster,0,AMUNDSEN HS,Roald Amundsen High School,HS,ISP
 609695,NONTCHSTAFF,David A Chinchilla,0,AMUNDSEN HS,Roald Amundsen High School,HS,ISP
@@ -900,7 +899,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610244,PARENT,Willie L Carter,0,CLARK HS,Michele Clark Academic Prep Magnet High School,HS,ISP
 610244,TEACHER,Charnelle C Evans,0,CLARK HS,Michele Clark Academic Prep Magnet High School,HS,ISP
 610244,TEACHER,Donald A Polo,0,CLARK HS,Michele Clark Academic Prep Magnet High School,HS,ISP
-609856,COMMUNITY,Antoinette R Islas,0,CLAY,Henry Clay Elementary School,ES,Network 13
 609856,COMMUNITY,Karen S Espinosa,0,CLAY,Henry Clay Elementary School,ES,Network 13
 609856,NONTCHSTAFF,Kathleen  Sylvertooth,0,CLAY,Henry Clay Elementary School,ES,Network 13
 609856,PARENT,Debora  Carabez,0,CLAY,Henry Clay Elementary School,ES,Network 13
@@ -1769,6 +1767,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609709,NONTCHSTAFF,Chiquita  Lewis,0,GAGE PARK HS,Gage Park High School,HS,Network 16
 609709,NONTCHSTAFF,Janely  Alcantar,0,GAGE PARK HS,Gage Park High School,HS,Network 16
 609709,PARENT,Taray  Perkins,0,GAGE PARK HS,Gage Park High School,HS,Network 16
+609709,PARENT,William N Sanders,0,GAGE PARK HS,Gage Park High School,HS,Network 16
 609709,TEACHER,Blake X Dunphy,0,GAGE PARK HS,Gage Park High School,HS,Network 16
 609709,TEACHER,Kimberly D Lawrence,0,GAGE PARK HS,Gage Park High School,HS,Network 16
 609933,COMMUNITY,Mandela J Okere,0,GALE,Stephen F Gale Elementary Community Academy,ES,Network 2
@@ -1783,13 +1782,13 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610009,COMMUNITY,Sarah J Hurd,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
 610009,COMMUNITY,Tatiana A Solis,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
 610009,NONTCHSTAFF,Roberta J Goodwin,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
-610009,PARENT,Blanca P Reccia,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
+610009,PARENT,Blanca P Recchia,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
 610009,PARENT,Dimitrios  Rigas,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
 610009,PARENT,Hazel  Drisdel,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
 610009,PARENT,Maricruz  Rendon,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
 610009,PARENT,Michelle  Bautista,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
 610009,PARENT,Miguel  Bautista,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
-610009,PARENT,Nikil M Bhatia,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
+610009,PARENT,Nickhil M Bhatia,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
 610009,PARENT,Patricia  Reyes,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
 610009,PARENT,Patricia A Powell,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
 610009,TEACHER,Concepcion C Moreno,0,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,Network 6
@@ -2438,7 +2437,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609678,PARENT,Jacqui N McGrew,0,JONES HS,William Jones College Preparatory High School,HS,ISP
 609678,PARENT,Jason R knupp,0,JONES HS,William Jones College Preparatory High School,HS,ISP
 609678,PARENT,Kelly D Lish,0,JONES HS,William Jones College Preparatory High School,HS,ISP
-609678,PARENT,Mary Clare J Maxwell,0,JONES HS,William Jones College Preparatory High School,HS,ISP
 609678,PARENT,Raquel  Don,0,JONES HS,William Jones College Preparatory High School,HS,ISP
 609678,PARENT,Roberto C Menjivar,0,JONES HS,William Jones College Preparatory High School,HS,ISP
 609678,PARENT,Ronald  Pullie,0,JONES HS,William Jones College Preparatory High School,HS,ISP
@@ -4496,7 +4494,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609732,PARENT,Norma V Lopez,0,STEINMETZ HS,Charles P Steinmetz College Preparatory HS,HS,Network 14
 609732,PARENT,Sue  Merlos,0,STEINMETZ HS,Charles P Steinmetz College Preparatory HS,HS,Network 14
 609732,TEACHER,Amy E Hank,0,STEINMETZ HS,Charles P Steinmetz College Preparatory HS,HS,Network 14
-609732,TEACHER,Cornell W Davis,0,STEINMETZ HS,Charles P Steinmetz College Preparatory HS,HS,Network 14
 609732,TEACHER,Lisa M Reed,0,STEINMETZ HS,Charles P Steinmetz College Preparatory HS,HS,Network 14
 609732,TEACHER,Tara S Dunne,0,STEINMETZ HS,Charles P Steinmetz College Preparatory HS,HS,Network 14
 609732,TEACHER,Vince L Caputi,0,STEINMETZ HS,Charles P Steinmetz College Preparatory HS,HS,Network 14
