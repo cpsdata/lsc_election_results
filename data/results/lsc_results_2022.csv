@@ -453,7 +453,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610590,PARENT,Charles  Barron Jr.,0,BRONZEVILLE CLASSICAL,Bronzeville Classical Elementary School,ES,Network 9
 610590,PARENT,Daryl  Seaton,0,BRONZEVILLE CLASSICAL,Bronzeville Classical Elementary School,ES,Network 9
 610590,PARENT,Fernando  Diaz,0,BRONZEVILLE CLASSICAL,Bronzeville Classical Elementary School,ES,Network 9
-610590,PARENT,LaTonya  Brooks,0,BRONZEVILLE CLASSICAL,Bronzeville Classical Elementary School,ES,Network 9
 610590,PARENT,Reynonda  Townsend,0,BRONZEVILLE CLASSICAL,Bronzeville Classical Elementary School,ES,Network 9
 610590,PARENT,Richard  Flowers,0,BRONZEVILLE CLASSICAL,Bronzeville Classical Elementary School,ES,Network 9
 610590,PARENT,Stephen S Mitchell,0,BRONZEVILLE CLASSICAL,Bronzeville Classical Elementary School,ES,Network 9
@@ -1230,7 +1229,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610252,COMMUNITY,Christie A Ray,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
 610252,COMMUNITY,Cloria  McCray-Duckins,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
 610252,PARENT,JoAnna  Sylvester,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
-610252,PARENT,Kawania  Christian,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
+610252,PARENT,Kawnia  Christian,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
 610252,PARENT,Lavell C Newbon,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
 610252,PARENT,Shakira Y Offord,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
 610252,PARENT,Tocciral  Johnson,0,DETT,Robert Nathaniel Dett Elementary School,ES,Network 6
@@ -1442,6 +1441,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609898,COMMUNITY,Marlene  Mosqueda,0,EBERHART,John F Eberhart Elementary School,ES,Network 10
 609898,COMMUNITY,Patricia  Torres-Thompson,0,EBERHART,John F Eberhart Elementary School,ES,Network 10
 609898,COMMUNITY,Sylvia  Vendegna,0,EBERHART,John F Eberhart Elementary School,ES,Network 10
+609898,NONTCHSTAFF,Gabriella  Pena,0,EBERHART,John F Eberhart Elementary School,ES,Network 10
 609898,PARENT,Daniel  Morales-Doyle,0,EBERHART,John F Eberhart Elementary School,ES,Network 10
 609898,PARENT,Maria  Soberanis- Vargas,0,EBERHART,John F Eberhart Elementary School,ES,Network 10
 609898,PARENT,Marisa  Alarcon,0,EBERHART,John F Eberhart Elementary School,ES,Network 10
@@ -1562,7 +1562,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609908,PARENT,Phyllis  Johnson,0,ESMOND,Esmond Elementary School,ES,Network 10
 609908,TEACHER,Denise S Quinn,0,ESMOND,Esmond Elementary School,ES,Network 10
 609908,TEACHER,Laura N Smith-Faggins,0,ESMOND,Esmond Elementary School,ES,Network 10
-609909,COMMUNITY,Sandra  De la Cruz,0,EVERETT,Edward Everett Elementary School,ES,ISP
+609909,COMMUNITY,Sandra E De la Cruz,0,EVERETT,Edward Everett Elementary School,ES,ISP
 609909,NONTCHSTAFF,Cecilia  Franco,0,EVERETT,Edward Everett Elementary School,ES,ISP
 609909,PARENT,Grety  Alejos,0,EVERETT,Edward Everett Elementary School,ES,ISP
 609909,PARENT,Vanessa  Diaz,0,EVERETT,Edward Everett Elementary School,ES,ISP
@@ -3648,6 +3648,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610115,PARENT,Kamaria A White,0,PARK MANOR,Park Manor Elementary School,ES,Network 12
 610115,PARENT,Showanda E Renfro,0,PARK MANOR,Park Manor Elementary School,ES,Network 12
 610115,PARENT,Sonja R Hammond,0,PARK MANOR,Park Manor Elementary School,ES,Network 12
+610115,TEACHER,Allyson L Simpson,0,PARK MANOR,Park Manor Elementary School,ES,Network 12
 610115,TEACHER,Ellis  Perry,0,PARK MANOR,Park Manor Elementary School,ES,Network 12
 610112,COMMUNITY,Michael  Montagano,0,PARKER,Francis W Parker Elementary Community Academy,ES,Network 11
 610112,COMMUNITY,Natalie  Henry,0,PARKER,Francis W Parker Elementary Community Academy,ES,Network 11
@@ -4004,6 +4005,13 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610588,PARENT,Maria T Rivera,0,RICHARDSON,Robert J. Richardson Middle School,MS,Network 10
 610588,TEACHER,Blanca L Sanchez,0,RICHARDSON,Robert J. Richardson Middle School,MS,Network 10
 610588,TEACHER,Eduardo  Jimenez,0,RICHARDSON,Robert J. Richardson Middle School,MS,Network 10
+610390,COMMANDANT,Rosemarie H O'Carroll,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
+610390,COMMUNITY,Denise K Thomas,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
+610390,COMMUNITY,Nancy R Meyerson,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
+610390,PARENT,Caryn A McKay,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
+610390,PARENT,Rebecca  Hendricks-Gartner,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
+610390,PARENT,Samantha D Gallardo,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
+610390,TEACHER,Scott M Fogel,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
 610256,COMMUNITY,Richard L Dobbins,0,ROBINSON,Jackie Robinson Elementary School,ES,Network 9
 610256,COMMUNITY,Theresa A Browne,0,ROBINSON,Jackie Robinson Elementary School,ES,Network 9
 610256,NONTCHSTAFF,Dalicia C Davis,0,ROBINSON,Jackie Robinson Elementary School,ES,Network 9
@@ -4142,7 +4150,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610017,NONTCHSTAFF,"Hubert  Lopez, Jr.",0,SAUCEDO,Maria Saucedo Elementary Scholastic Academy,ES,Network 7
 610017,PARENT,Corey  Garcia,0,SAUCEDO,Maria Saucedo Elementary Scholastic Academy,ES,Network 7
 610017,PARENT,Dolores G Avelar,0,SAUCEDO,Maria Saucedo Elementary Scholastic Academy,ES,Network 7
-610017,PARENT,Eduardo  Ramirez,0,SAUCEDO,Maria Saucedo Elementary Scholastic Academy,ES,Network 7
+610017,PARENT,Edgardo  Ramirez,0,SAUCEDO,Maria Saucedo Elementary Scholastic Academy,ES,Network 7
 610017,PARENT,Hayde  Gallegos,0,SAUCEDO,Maria Saucedo Elementary Scholastic Academy,ES,Network 7
 610017,PARENT,Lucy  Limon,0,SAUCEDO,Maria Saucedo Elementary Scholastic Academy,ES,Network 7
 610017,PARENT,Marcos A Balderrama,0,SAUCEDO,Maria Saucedo Elementary Scholastic Academy,ES,Network 7
@@ -4461,7 +4469,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609745,TEACHER,Lindsay M Raya,0,SOUTHSIDE HS,Southside Occupational Academy High School,HS,ISP
 609745,TEACHER,Regina G Hawkins,0,SOUTHSIDE HS,Southside Occupational Academy High School,HS,ISP
 610183,COMMUNITY,Camille  Gilliam,0,SPENCER,Spencer Technology Academy,ES,Network 3
-610183,COMMUNITY,William  Martin,0,SPENCER,Spencer Technology Academy,ES,Network 3
+610183,COMMUNITY,Pastor William  Martin,0,SPENCER,Spencer Technology Academy,ES,Network 3
 610183,NONTCHSTAFF,Cynthia M Peterson,0,SPENCER,Spencer Technology Academy,ES,Network 3
 610183,PARENT,LaPorsha M Lipscombe,0,SPENCER,Spencer Technology Academy,ES,Network 3
 610183,PARENT,Lakeshia  Howard,0,SPENCER,Spencer Technology Academy,ES,Network 3
@@ -4967,7 +4975,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610223,PARENT,Dionne M Frye,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
 610223,PARENT,Keyonsha  Holloway,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
 610223,PARENT,LaParis  Ferguson,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
-610223,PARENT,Lanae L Smith,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
 610223,PARENT,Latoya  Traylor,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
 610223,PARENT,Precious D Keith,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
 610223,PARENT,Tenisha  Green,0,WENTWORTH,Daniel S Wentworth Elementary School,ES,Network 11
