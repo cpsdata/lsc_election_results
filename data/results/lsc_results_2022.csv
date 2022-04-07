@@ -341,8 +341,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609698,TEACHER,John E Boggs,0,BOGAN HS,William J Bogan High School,HS,Network 16
 609698,TEACHER,Marilen B Corres,0,BOGAN HS,William J Bogan High School,HS,Network 16
 610238,COMMUNITY,Carol  Richardson,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
-610238,COMMUNITY,Devin A Brown,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
-610238,COMMUNITY,Willie  Cousins,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
+610238,NONTCHSTAFF,Willie M Cousins,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
 610238,PARENT,Aisha  King,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
 610238,PARENT,Angelique M Whitehead,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
 610238,PARENT,Charissa  Trawick,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
@@ -351,6 +350,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610238,PARENT,Pondanien C Mociers,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
 610238,PARENT,Tia T Turner,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
 610238,TEACHER,Dawn O Kelly,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
+610238,TEACHER,Devin A Brown,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
 610238,TEACHER,Tamara M Kampwirth,0,BOND,Carrie Jacobs Bond Elementary School,ES,Network 11
 609804,COMMUNITY,Jerome  Yanoff,0,BOONE,Daniel Boone Elementary School,ES,Network 2
 609804,COMMUNITY,Joseph  Romeo,0,BOONE,Daniel Boone Elementary School,ES,Network 2
@@ -439,7 +439,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609811,TEACHER,Terra J Sinkevicius,0,BRIGHT,Orville T Bright Elementary School,ES,Network 13
 609811,TEACHER,Wanda F Linton,0,BRIGHT,Orville T Bright Elementary School,ES,Network 13
 610317,COMMUNITY,Katherine G Richter,0,BRIGHTON PARK,Brighton Park Elementary School,ES,Network 8
-610317,COMMUNITY,Mauro  Simental-Valdez,0,BRIGHTON PARK,Brighton Park Elementary School,ES,Network 8
 610317,NONTCHSTAFF,Rolando  Perez,0,BRIGHTON PARK,Brighton Park Elementary School,ES,Network 8
 610317,PARENT,Beatris A Martinez,0,BRIGHTON PARK,Brighton Park Elementary School,ES,Network 8
 610317,PARENT,Elizabeth  Nicasio,0,BRIGHTON PARK,Brighton Park Elementary School,ES,Network 8
@@ -734,6 +733,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609760,TEACHER,Kathryn P Alderson,0,CARVER MILITARY HS,George Washington Carver Military Academy HS,HS,Network 17
 610021,COMMUNITY,Crmen  Negron,0,CASALS,Pablo Casals Elementary School,ES,Network 5
 610021,COMMUNITY,Delores  Wright,0,CASALS,Pablo Casals Elementary School,ES,Network 5
+610021,NONTCHSTAFF,Cornell D Bursey,0,CASALS,Pablo Casals Elementary School,ES,Network 5
 610021,NONTCHSTAFF,Jose  Santiago,0,CASALS,Pablo Casals Elementary School,ES,Network 5
 610021,PARENT,Cachana  tate,0,CASALS,Pablo Casals Elementary School,ES,Network 5
 610021,PARENT,Elida  Carrizoza,0,CASALS,Pablo Casals Elementary School,ES,Network 5
@@ -4011,6 +4011,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610390,PARENT,Caryn A McKay,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
 610390,PARENT,Rebecca  Hendricks-Gartner,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
 610390,PARENT,Samantha D Gallardo,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
+610390,PARENT,Suellen  Wolk,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
 610390,TEACHER,Scott M Fogel,0,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,ISP
 610256,COMMUNITY,Richard L Dobbins,0,ROBINSON,Jackie Robinson Elementary School,ES,Network 9
 610256,COMMUNITY,Theresa A Browne,0,ROBINSON,Jackie Robinson Elementary School,ES,Network 9
@@ -4105,7 +4106,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610586,COMMUNITY,Liliana  Bustos,0,SADLOWSKI,Edward E. Sadlowski Elementary School,ES,Network 13
 610586,NONTCHSTAFF,Elizabeth  Candelaria,0,SADLOWSKI,Edward E. Sadlowski Elementary School,ES,Network 13
 610586,NONTCHSTAFF,Roberto  Aguirre,0,SADLOWSKI,Edward E. Sadlowski Elementary School,ES,Network 13
-610586,PARENT,Delia L Cruz,0,SADLOWSKI,Edward E. Sadlowski Elementary School,ES,Network 13
 610586,PARENT,Frank  Corona,0,SADLOWSKI,Edward E. Sadlowski Elementary School,ES,Network 13
 610586,PARENT,Gaudhy  Perez,0,SADLOWSKI,Edward E. Sadlowski Elementary School,ES,Network 13
 610586,PARENT,Leticia  Parra,0,SADLOWSKI,Edward E. Sadlowski Elementary School,ES,Network 13
@@ -4205,7 +4205,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610178,TEACHER,Jose  Rodriguez,0,SCHMID,Theophilus Schmid Elementary School,ES,Network 12
 610178,TEACHER,Yolanda R Williams,0,SCHMID,Theophilus Schmid Elementary School,ES,Network 12
 610165,NONTCHSTAFF,Reynalda  Batres,0,SCHUBERT,Franz Peter Schubert Elementary School,ES,Network 3
-610165,NONTCHSTAFF,Wilfrido  Marin,0,SCHUBERT,Franz Peter Schubert Elementary School,ES,Network 3
 610165,PARENT,Diana P Quintero Vergara,0,SCHUBERT,Franz Peter Schubert Elementary School,ES,Network 3
 610165,PARENT,Eloy  Gonzalez,0,SCHUBERT,Franz Peter Schubert Elementary School,ES,Network 3
 610165,PARENT,Leticia  Arroyo,0,SCHUBERT,Franz Peter Schubert Elementary School,ES,Network 3
@@ -4572,6 +4571,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609733,PARENT,Whitney A Norris,0,SULLIVAN HS,Roger C Sullivan High School,HS,Network 14
 609733,TEACHER,Calvin D Clark,0,SULLIVAN HS,Roger C Sullivan High School,HS,Network 14
 609733,TEACHER,John C Mathew,0,SULLIVAN HS,Roger C Sullivan High School,HS,Network 14
+610194,COMMUNITY,Brian  Dye,0,SUMNER,Charles Sumner  Math & Science Community Acad ES,ES,Network 5
 610194,COMMUNITY,Keyera  Betts,0,SUMNER,Charles Sumner  Math & Science Community Acad ES,ES,Network 5
 610194,NONTCHSTAFF,Kayla B Miles,0,SUMNER,Charles Sumner  Math & Science Community Acad ES,ES,Network 5
 610194,PARENT,Alexis  Baldwin,0,SUMNER,Charles Sumner  Math & Science Community Acad ES,ES,Network 5
