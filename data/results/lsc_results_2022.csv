@@ -406,7 +406,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609809,NONTCHSTAFF,Alexandra I Arango,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
 609809,PARENT,Aimee K Potter,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
 609809,PARENT,Andrew J Yankech,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
-609809,PARENT,Anthony J Nicholas,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
+609809,PARENT,Anthony J Nicholson,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
 609809,PARENT,Benjamin L Dieterich,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
 609809,PARENT,Lawrence O Brown,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
 609809,PARENT,Maggy  Berthold,0,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,Network 4
@@ -540,7 +540,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609817,TEACHER,Elijah  Park,0,BUDLONG,Lyman A Budlong Elementary School,ES,ISP
 609817,TEACHER,Sandra  Moy Lai,0,BUDLONG,Lyman A Budlong Elementary School,ES,ISP
 609818,COMMUNITY,Ema  Nunez Arce,0,BURBANK,Luther Burbank Elementary School,ES,Network 3
-609818,COMMUNITY,Jose R Quiles,0,BURBANK,Luther Burbank Elementary School,ES,Network 3
 609818,NONTCHSTAFF,Diana F Hernandez,0,BURBANK,Luther Burbank Elementary School,ES,Network 3
 609818,PARENT,Adriana  Garcia,0,BURBANK,Luther Burbank Elementary School,ES,Network 3
 609818,PARENT,Alexandra  Beltrand,0,BURBANK,Luther Burbank Elementary School,ES,Network 3
@@ -1381,6 +1380,7 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609676,TEACHER,Solomon  Reynolds,0,DUNBAR HS,Paul Laurence Dunbar Career Academy High School,HS,Network 17
 610188,COMMUNITY,Bernard K Kelly,0,DUNNE,Dunne Technology Academy,ES,Network 13
 610188,COMMUNITY,PATRICIA D FENTREE,0,DUNNE,Dunne Technology Academy,ES,Network 13
+610188,NONTCHSTAFF,Jacquelyn L Young,0,DUNNE,Dunne Technology Academy,ES,Network 13
 610188,PARENT,DEVONDA D ELLIS,0,DUNNE,Dunne Technology Academy,ES,Network 13
 610188,PARENT,MICHELLE B REDMOND,0,DUNNE,Dunne Technology Academy,ES,Network 13
 610188,PARENT,Moneca J Gomez,0,DUNNE,Dunne Technology Academy,ES,Network 13
@@ -2139,7 +2139,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 609976,PARENT,Armand  Esai,0,HAYT,Stephen K Hayt Elementary School,ES,Network 2
 609976,PARENT,Bruce H Ahlonko,0,HAYT,Stephen K Hayt Elementary School,ES,Network 2
 609976,PARENT,Cheryl  Reimer,0,HAYT,Stephen K Hayt Elementary School,ES,Network 2
-609976,PARENT,Emma K Healey,0,HAYT,Stephen K Hayt Elementary School,ES,Network 2
 609976,PARENT,John  Van Slyke,0,HAYT,Stephen K Hayt Elementary School,ES,Network 2
 609976,PARENT,Mark  Smirl,0,HAYT,Stephen K Hayt Elementary School,ES,Network 2
 609976,PARENT,Solomon H Gebregziabher,0,HAYT,Stephen K Hayt Elementary School,ES,Network 2
@@ -4681,7 +4680,6 @@ SchoolId,LSCMemberType,MemberName,MemberVotes,Short_Name,Long_Name,Primary_Categ
 610200,TEACHER,Mose Y Vines,0,THORP J,James N Thorp Elementary School,ES,Network 12
 610200,TEACHER,Paula E Rice-Irvin,0,THORP J,James N Thorp Elementary School,ES,Network 12
 610201,COMMUNITY,Bamboayani  Mahmoud,0,THORP O,Ole A Thorp Elementary Scholastic Academy,ES,ISP
-610201,COMMUNITY,Nadim J Osman,0,THORP O,Ole A Thorp Elementary Scholastic Academy,ES,ISP
 610201,NONTCHSTAFF,Kristine A Limanni,0,THORP O,Ole A Thorp Elementary Scholastic Academy,ES,ISP
 610201,PARENT,Dorothy  Kwiatkowski,0,THORP O,Ole A Thorp Elementary Scholastic Academy,ES,ISP
 610201,PARENT,Gary E Stanton,0,THORP O,Ole A Thorp Elementary Scholastic Academy,ES,ISP
